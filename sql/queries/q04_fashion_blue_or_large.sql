@@ -1,0 +1,1 @@
+-- Placeholder query q04: fashion blue or large.

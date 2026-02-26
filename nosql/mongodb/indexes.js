@@ -1,0 +1,1 @@
+// Placeholder: MongoDB index definitions.

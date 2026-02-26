@@ -1,0 +1,1 @@
+-- Placeholder query q01: fashion products.

@@ -1,0 +1,1 @@
+-- Placeholder query q03: low stock.
