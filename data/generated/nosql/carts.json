@@ -1,0 +1,5746 @@
+[
+  {
+    "user_id": 1,
+    "items": [
+      {
+        "product_id": 1059,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 37.48,
+        "added_at": "2026-02-27T07:28:06.327707Z"
+      },
+      {
+        "product_id": 3497,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 71.66,
+        "added_at": "2026-02-23T00:14:47.504759Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-24T18:14:58.731750Z",
+    "created_at": "2026-02-24T15:14:58.731750Z"
+  },
+  {
+    "user_id": 544,
+    "items": [
+      {
+        "product_id": 3254,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 13.74,
+        "added_at": "2026-02-24T09:32:38.854432Z"
+      },
+      {
+        "product_id": 4516,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 84.61,
+        "added_at": "2026-02-27T23:46:18.790326Z"
+      },
+      {
+        "product_id": 4190,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 67.6,
+        "added_at": "2026-02-27T13:43:48.849993Z"
+      },
+      {
+        "product_id": 4974,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 228.63,
+        "added_at": "2026-03-01T01:55:51.202548Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-23T10:39:01.605974Z",
+    "created_at": "2026-02-22T23:39:01.605974Z"
+  },
+  {
+    "user_id": 842,
+    "items": [
+      {
+        "product_id": 3123,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 83.23,
+        "added_at": "2026-02-25T18:55:39.316546Z"
+      },
+      {
+        "product_id": 116,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 74.53,
+        "added_at": "2026-02-23T01:03:02.358316Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-24T08:46:33.247161Z",
+    "created_at": "2026-02-23T06:46:33.247161Z"
+  },
+  {
+    "user_id": 365,
+    "items": [
+      {
+        "product_id": 2902,
+        "variant_key": "aqua-S",
+        "quantity": 3,
+        "price": 60.02,
+        "added_at": "2026-02-26T08:56:39.878245Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-23T00:30:09.954465Z",
+    "created_at": "2026-02-21T12:30:09.954465Z"
+  },
+  {
+    "user_id": 942,
+    "items": [
+      {
+        "product_id": 1499,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 12.96,
+        "added_at": "2026-02-24T05:26:58.011135Z"
+      },
+      {
+        "product_id": 3562,
+        "variant_key": "pink-S",
+        "quantity": 2,
+        "price": 28.14,
+        "added_at": "2026-02-27T09:13:31.107969Z"
+      },
+      {
+        "product_id": 4376,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 49.04,
+        "added_at": "2026-02-26T15:35:41.607469Z"
+      },
+      {
+        "product_id": 3920,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 58.73,
+        "added_at": "2026-02-24T09:04:43.488210Z"
+      },
+      {
+        "product_id": 3626,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 83.57,
+        "added_at": "2026-02-26T23:02:28.885608Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-28T12:01:44.540199Z",
+    "created_at": "2026-02-27T22:01:44.540199Z"
+  },
+  {
+    "user_id": 172,
+    "items": [
+      {
+        "product_id": 1252,
+        "variant_key": "aqua-L",
+        "quantity": 1,
+        "price": 170.77,
+        "added_at": "2026-02-22T21:08:11.449853Z"
+      },
+      {
+        "product_id": 4165,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 31.27,
+        "added_at": "2026-02-28T11:25:20.483509Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-27T17:19:55.706089Z",
+    "created_at": "2026-02-26T02:19:55.706089Z"
+  },
+  {
+    "user_id": 146,
+    "items": [
+      {
+        "product_id": 2079,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 18.0,
+        "added_at": "2026-02-25T05:12:24.512390Z"
+      },
+      {
+        "product_id": 4590,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 5.5,
+        "added_at": "2026-02-23T22:09:55.001486Z"
+      },
+      {
+        "product_id": 1509,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 127.47,
+        "added_at": "2026-03-01T12:51:23.466071Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-25T04:35:33.380884Z",
+    "created_at": "2026-02-24T02:35:33.380884Z"
+  },
+  {
+    "user_id": 955,
+    "items": [
+      {
+        "product_id": 3089,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 92.26,
+        "added_at": "2026-02-23T11:37:33.686076Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-23T12:17:35.064709Z",
+    "created_at": "2026-02-22T22:17:35.064709Z"
+  },
+  {
+    "user_id": 124,
+    "items": [
+      {
+        "product_id": 404,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 61.8,
+        "added_at": "2026-02-28T18:25:25.592767Z"
+      },
+      {
+        "product_id": 3923,
+        "variant_key": "white",
+        "quantity": 1,
+        "price": 114.43,
+        "added_at": "2026-02-27T01:28:14.503771Z"
+      },
+      {
+        "product_id": 940,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 9.36,
+        "added_at": "2026-02-28T11:38:32.179676Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-27T22:38:22.784592Z",
+    "created_at": "2026-02-26T02:38:22.784592Z"
+  },
+  {
+    "user_id": 82,
+    "items": [
+      {
+        "product_id": 2260,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 91.71,
+        "added_at": "2026-02-26T14:07:51.749712Z"
+      },
+      {
+        "product_id": 52,
+        "variant_key": "navy-L",
+        "quantity": 3,
+        "price": 190.47,
+        "added_at": "2026-03-01T15:31:41.414055Z"
+      },
+      {
+        "product_id": 2583,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 115.69,
+        "added_at": "2026-02-25T11:38:18.591336Z"
+      },
+      {
+        "product_id": 2498,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 11.38,
+        "added_at": "2026-02-26T16:47:15.173794Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-28T15:23:04.940940Z",
+    "created_at": "2026-02-27T18:23:04.940940Z"
+  },
+  {
+    "user_id": 378,
+    "items": [
+      {
+        "product_id": 112,
+        "variant_key": "pink-XL",
+        "quantity": 1,
+        "price": 80.93,
+        "added_at": "2026-02-27T03:57:21.746230Z"
+      },
+      {
+        "product_id": 1801,
+        "variant_key": "space-gray",
+        "quantity": 1,
+        "price": 18.45,
+        "added_at": "2026-02-28T20:48:41.333308Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-26T21:02:23.577451Z",
+    "created_at": "2026-02-25T02:02:23.577451Z"
+  },
+  {
+    "user_id": 748,
+    "items": [
+      {
+        "product_id": 4168,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 19.55,
+        "added_at": "2026-02-27T18:24:46.046543Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-23T03:44:35.587235Z",
+    "created_at": "2026-02-22T12:44:35.587235Z"
+  },
+  {
+    "user_id": 563,
+    "items": [
+      {
+        "product_id": 3880,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 72.23,
+        "added_at": "2026-02-24T10:19:53.877114Z"
+      },
+      {
+        "product_id": 519,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 51.18,
+        "added_at": "2026-02-24T20:39:42.840387Z"
+      },
+      {
+        "product_id": 2268,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 7.16,
+        "added_at": "2026-02-23T09:26:59.187644Z"
+      },
+      {
+        "product_id": 2962,
+        "variant_key": "black-S",
+        "quantity": 2,
+        "price": 196.05,
+        "added_at": "2026-02-24T11:09:12.928071Z"
+      },
+      {
+        "product_id": 4659,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 70.16,
+        "added_at": "2026-02-23T13:00:46.664507Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-24T18:44:39.435161Z",
+    "created_at": "2026-02-22T23:44:39.435161Z"
+  },
+  {
+    "user_id": 458,
+    "items": [
+      {
+        "product_id": 3018,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 28.0,
+        "added_at": "2026-02-27T06:50:22.951891Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-25T09:20:11.501841Z",
+    "created_at": "2026-02-24T15:20:11.501841Z"
+  },
+  {
+    "user_id": 95,
+    "items": [
+      {
+        "product_id": 635,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 39.87,
+        "added_at": "2026-02-25T10:14:06.448912Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-24T07:14:30.852211Z",
+    "created_at": "2026-02-23T13:14:30.852211Z"
+  },
+  {
+    "user_id": 939,
+    "items": [
+      {
+        "product_id": 4666,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 65.95,
+        "added_at": "2026-02-24T16:53:49.186775Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-03-01T09:24:09.694649Z",
+    "created_at": "2026-02-28T08:24:09.694649Z"
+  },
+  {
+    "user_id": 993,
+    "items": [
+      {
+        "product_id": 1733,
+        "variant_key": "black",
+        "quantity": 2,
+        "price": 146.16,
+        "added_at": "2026-02-27T08:54:52.800997Z"
+      },
+      {
+        "product_id": 4483,
+        "variant_key": "natural",
+        "quantity": 2,
+        "price": 50.73,
+        "added_at": "2026-02-27T02:22:43.432227Z"
+      },
+      {
+        "product_id": 1515,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 54.65,
+        "added_at": "2026-02-24T00:47:45.654430Z"
+      },
+      {
+        "product_id": 5,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 26.29,
+        "added_at": "2026-02-27T22:32:16.887400Z"
+      },
+      {
+        "product_id": 2078,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 9.57,
+        "added_at": "2026-02-23T23:29:46.828227Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-25T11:47:35.651175Z",
+    "created_at": "2026-02-23T16:47:35.651175Z"
+  },
+  {
+    "user_id": 571,
+    "items": [
+      {
+        "product_id": 583,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 42.16,
+        "added_at": "2026-03-01T18:17:04.722465Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-27T07:33:52.854760Z",
+    "created_at": "2026-02-25T08:33:52.854760Z"
+  },
+  {
+    "user_id": 288,
+    "items": [
+      {
+        "product_id": 1227,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 29.73,
+        "added_at": "2026-02-26T17:36:44.205035Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-27T15:03:35.698999Z",
+    "created_at": "2026-02-26T02:03:35.698999Z"
+  },
+  {
+    "user_id": 326,
+    "items": [
+      {
+        "product_id": 3523,
+        "variant_key": "white",
+        "quantity": 2,
+        "price": 49.88,
+        "added_at": "2026-02-28T17:38:37.841331Z"
+      },
+      {
+        "product_id": 3791,
+        "variant_key": "space-gray",
+        "quantity": 2,
+        "price": 82.18,
+        "added_at": "2026-02-28T06:24:45.746503Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-24T10:31:29.273924Z",
+    "created_at": "2026-02-22T21:31:29.273924Z"
+  },
+  {
+    "user_id": 161,
+    "items": [
+      {
+        "product_id": 3888,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 28.21,
+        "added_at": "2026-02-23T01:26:15.227513Z"
+      },
+      {
+        "product_id": 1352,
+        "variant_key": "pink-L",
+        "quantity": 2,
+        "price": 73.67,
+        "added_at": "2026-02-25T01:02:27.003466Z"
+      },
+      {
+        "product_id": 3964,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 229.92,
+        "added_at": "2026-02-24T17:01:30.681790Z"
+      },
+      {
+        "product_id": 4932,
+        "variant_key": "navy-L",
+        "quantity": 1,
+        "price": 35.25,
+        "added_at": "2026-02-24T07:29:23.423801Z"
+      },
+      {
+        "product_id": 3587,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 69.56,
+        "added_at": "2026-03-01T10:27:12.795230Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-28T23:16:28.140491Z",
+    "created_at": "2026-02-27T17:16:28.140491Z"
+  },
+  {
+    "user_id": 215,
+    "items": [
+      {
+        "product_id": 4725,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 37.16,
+        "added_at": "2026-02-25T00:54:38.182307Z"
+      },
+      {
+        "product_id": 4463,
+        "variant_key": "white",
+        "quantity": 2,
+        "price": 70.88,
+        "added_at": "2026-02-27T10:09:30.304770Z"
+      },
+      {
+        "product_id": 1944,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 23.46,
+        "added_at": "2026-02-25T14:30:39.173762Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-03-01T05:41:19.382275Z",
+    "created_at": "2026-02-27T16:41:19.382275Z"
+  },
+  {
+    "user_id": 372,
+    "items": [
+      {
+        "product_id": 1664,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 120.15,
+        "added_at": "2026-02-26T01:07:54.600445Z"
+      },
+      {
+        "product_id": 752,
+        "variant_key": "pink-L",
+        "quantity": 2,
+        "price": 171.55,
+        "added_at": "2026-02-24T16:32:40.524698Z"
+      },
+      {
+        "product_id": 2530,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 64.79,
+        "added_at": "2026-02-24T13:28:41.316653Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-26T18:21:16.447542Z",
+    "created_at": "2026-02-24T22:21:16.447542Z"
+  },
+  {
+    "user_id": 836,
+    "items": [
+      {
+        "product_id": 2744,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 51.99,
+        "added_at": "2026-02-24T16:11:07.124835Z"
+      },
+      {
+        "product_id": 1022,
+        "variant_key": "red-L",
+        "quantity": 1,
+        "price": 66.58,
+        "added_at": "2026-02-26T22:15:18.606887Z"
+      },
+      {
+        "product_id": 1299,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 72.75,
+        "added_at": "2026-03-01T02:52:44.280003Z"
+      },
+      {
+        "product_id": 568,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 38.52,
+        "added_at": "2026-02-25T15:08:38.425509Z"
+      },
+      {
+        "product_id": 2860,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 63.59,
+        "added_at": "2026-02-24T08:53:26.195138Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-03-01T19:37:51.744408Z",
+    "created_at": "2026-03-01T00:37:51.744408Z"
+  },
+  {
+    "user_id": 674,
+    "items": [
+      {
+        "product_id": 3737,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 65.59,
+        "added_at": "2026-02-26T09:38:42.502415Z"
+      },
+      {
+        "product_id": 57,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 50.74,
+        "added_at": "2026-02-23T11:19:03.012483Z"
+      },
+      {
+        "product_id": 1150,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 57.21,
+        "added_at": "2026-02-23T03:57:36.983857Z"
+      },
+      {
+        "product_id": 3804,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 200.86,
+        "added_at": "2026-02-23T14:27:56.794036Z"
+      },
+      {
+        "product_id": 2533,
+        "variant_key": "white",
+        "quantity": 2,
+        "price": 124.43,
+        "added_at": "2026-02-27T05:27:20.366022Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-28T09:06:50.599567Z",
+    "created_at": "2026-02-27T13:06:50.599567Z"
+  },
+  {
+    "user_id": 287,
+    "items": [
+      {
+        "product_id": 3669,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 69.22,
+        "added_at": "2026-02-25T18:58:03.347920Z"
+      },
+      {
+        "product_id": 730,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 15.82,
+        "added_at": "2026-02-23T06:43:02.556681Z"
+      },
+      {
+        "product_id": 3160,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 71.31,
+        "added_at": "2026-02-25T12:09:24.344479Z"
+      },
+      {
+        "product_id": 277,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 43.67,
+        "added_at": "2026-03-01T19:23:35.210769Z"
+      },
+      {
+        "product_id": 271,
+        "variant_key": "silver",
+        "quantity": 2,
+        "price": 344.99,
+        "added_at": "2026-02-26T12:56:09.355916Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-03-01T15:11:09.202781Z",
+    "created_at": "2026-02-28T16:11:09.202781Z"
+  },
+  {
+    "user_id": 757,
+    "items": [
+      {
+        "product_id": 1808,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 34.77,
+        "added_at": "2026-02-28T20:39:20.563911Z"
+      },
+      {
+        "product_id": 309,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 32.07,
+        "added_at": "2026-02-22T21:58:24.722071Z"
+      },
+      {
+        "product_id": 4629,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 58.61,
+        "added_at": "2026-02-27T21:07:33.556349Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-27T14:34:19.431187Z",
+    "created_at": "2026-02-26T08:34:19.431187Z"
+  },
+  {
+    "user_id": 918,
+    "items": [
+      {
+        "product_id": 648,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 17.67,
+        "added_at": "2026-02-26T14:15:20.655831Z"
+      },
+      {
+        "product_id": 4633,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 20.84,
+        "added_at": "2026-02-24T16:52:16.874883Z"
+      },
+      {
+        "product_id": 4664,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 179.5,
+        "added_at": "2026-02-27T07:43:34.695781Z"
+      },
+      {
+        "product_id": 2631,
+        "variant_key": "black",
+        "quantity": 1,
+        "price": 214.25,
+        "added_at": "2026-02-23T14:47:07.754591Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-25T21:05:07.023605Z",
+    "created_at": "2026-02-24T21:05:07.023605Z"
+  },
+  {
+    "user_id": 181,
+    "items": [
+      {
+        "product_id": 3818,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 7.04,
+        "added_at": "2026-02-26T00:16:13.097588Z"
+      },
+      {
+        "product_id": 3015,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 35.26,
+        "added_at": "2026-03-01T12:17:08.872965Z"
+      },
+      {
+        "product_id": 1324,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 42.1,
+        "added_at": "2026-02-28T23:11:16.858341Z"
+      },
+      {
+        "product_id": 3388,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 15.75,
+        "added_at": "2026-02-24T16:17:38.697894Z"
+      },
+      {
+        "product_id": 2456,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 35.09,
+        "added_at": "2026-02-26T08:08:35.481173Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-24T02:03:29.657345Z",
+    "created_at": "2026-02-22T10:03:29.657345Z"
+  },
+  {
+    "user_id": 444,
+    "items": [
+      {
+        "product_id": 4297,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 7.74,
+        "added_at": "2026-03-01T05:21:58.317236Z"
+      },
+      {
+        "product_id": 3224,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 119.77,
+        "added_at": "2026-02-28T22:17:30.631037Z"
+      },
+      {
+        "product_id": 3392,
+        "variant_key": "pink-M",
+        "quantity": 2,
+        "price": 135.39,
+        "added_at": "2026-02-24T22:11:00.409868Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-27T07:23:17.654495Z",
+    "created_at": "2026-02-26T11:23:17.654495Z"
+  },
+  {
+    "user_id": 911,
+    "items": [
+      {
+        "product_id": 2145,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 24.68,
+        "added_at": "2026-02-27T02:21:06.183878Z"
+      },
+      {
+        "product_id": 1814,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 98.21,
+        "added_at": "2026-02-23T21:43:18.189619Z"
+      },
+      {
+        "product_id": 2109,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 51.77,
+        "added_at": "2026-02-28T04:08:47.531885Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-26T14:39:37.437416Z",
+    "created_at": "2026-02-26T06:39:37.437416Z"
+  },
+  {
+    "user_id": 928,
+    "items": [
+      {
+        "product_id": 4665,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 44.87,
+        "added_at": "2026-02-28T06:51:14.294276Z"
+      },
+      {
+        "product_id": 1987,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 12.23,
+        "added_at": "2026-02-26T13:08:38.900944Z"
+      },
+      {
+        "product_id": 4738,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 29.52,
+        "added_at": "2026-02-22T20:08:26.882778Z"
+      },
+      {
+        "product_id": 1855,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 51.99,
+        "added_at": "2026-02-25T02:30:10.583277Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-22T23:19:00.533795Z",
+    "created_at": "2026-02-22T21:19:00.533795Z"
+  },
+  {
+    "user_id": 518,
+    "items": [
+      {
+        "product_id": 4599,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 59.03,
+        "added_at": "2026-03-01T08:07:59.843117Z"
+      },
+      {
+        "product_id": 1840,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 24.15,
+        "added_at": "2026-02-28T23:40:11.991708Z"
+      },
+      {
+        "product_id": 2689,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 65.57,
+        "added_at": "2026-02-28T15:45:52.312158Z"
+      },
+      {
+        "product_id": 4960,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 92.54,
+        "added_at": "2026-02-24T23:42:25.543044Z"
+      },
+      {
+        "product_id": 1791,
+        "variant_key": "black",
+        "quantity": 1,
+        "price": 185.0,
+        "added_at": "2026-02-23T05:46:34.140696Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-28T23:33:01.205599Z",
+    "created_at": "2026-02-28T12:33:01.205599Z"
+  },
+  {
+    "user_id": 817,
+    "items": [
+      {
+        "product_id": 66,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 43.86,
+        "added_at": "2026-03-01T11:07:56.024516Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-23T10:26:04.207811Z",
+    "created_at": "2026-02-21T13:26:04.207811Z"
+  },
+  {
+    "user_id": 472,
+    "items": [
+      {
+        "product_id": 944,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 229.25,
+        "added_at": "2026-02-26T05:41:28.032214Z"
+      },
+      {
+        "product_id": 3924,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 71.56,
+        "added_at": "2026-02-23T07:40:20.731170Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-28T03:49:33.189548Z",
+    "created_at": "2026-02-27T04:49:33.189548Z"
+  },
+  {
+    "user_id": 266,
+    "items": [
+      {
+        "product_id": 2352,
+        "variant_key": "white-L",
+        "quantity": 2,
+        "price": 91.64,
+        "added_at": "2026-02-28T04:42:17.662845Z"
+      },
+      {
+        "product_id": 2759,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 94.03,
+        "added_at": "2026-02-23T17:36:52.157729Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-26T03:53:31.782274Z",
+    "created_at": "2026-02-25T18:53:31.782274Z"
+  },
+  {
+    "user_id": 274,
+    "items": [
+      {
+        "product_id": 2003,
+        "variant_key": "white",
+        "quantity": 1,
+        "price": 99.56,
+        "added_at": "2026-02-26T16:24:42.213346Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-24T16:34:27.249183Z",
+    "created_at": "2026-02-23T22:34:27.249183Z"
+  },
+  {
+    "user_id": 865,
+    "items": [
+      {
+        "product_id": 3546,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 73.72,
+        "added_at": "2026-02-28T22:36:48.503248Z"
+      },
+      {
+        "product_id": 526,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 11.74,
+        "added_at": "2026-02-25T19:07:54.826233Z"
+      },
+      {
+        "product_id": 1831,
+        "variant_key": "white",
+        "quantity": 1,
+        "price": 46.08,
+        "added_at": "2026-02-24T07:37:36.554651Z"
+      },
+      {
+        "product_id": 1159,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 44.92,
+        "added_at": "2026-02-26T14:38:47.274494Z"
+      },
+      {
+        "product_id": 1118,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 13.54,
+        "added_at": "2026-02-27T22:40:23.310585Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-24T05:50:17.163138Z",
+    "created_at": "2026-02-22T23:50:17.163138Z"
+  },
+  {
+    "user_id": 697,
+    "items": [
+      {
+        "product_id": 3224,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 119.77,
+        "added_at": "2026-02-25T00:24:47.012979Z"
+      },
+      {
+        "product_id": 4874,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 154.64,
+        "added_at": "2026-03-01T19:13:47.330909Z"
+      },
+      {
+        "product_id": 2710,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 69.37,
+        "added_at": "2026-02-27T09:13:27.249260Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-25T21:38:43.930752Z",
+    "created_at": "2026-02-24T14:38:43.930752Z"
+  },
+  {
+    "user_id": 667,
+    "items": [
+      {
+        "product_id": 4550,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 16.14,
+        "added_at": "2026-02-26T10:59:50.868658Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-23T16:22:24.337661Z",
+    "created_at": "2026-02-22T00:22:24.337661Z"
+  },
+  {
+    "user_id": 912,
+    "items": [
+      {
+        "product_id": 564,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 67.06,
+        "added_at": "2026-02-24T09:47:37.949437Z"
+      },
+      {
+        "product_id": 2954,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 98.84,
+        "added_at": "2026-02-25T04:50:35.147987Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-26T22:52:50.112923Z",
+    "created_at": "2026-02-25T01:52:50.112923Z"
+  },
+  {
+    "user_id": 696,
+    "items": [
+      {
+        "product_id": 3249,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 37.03,
+        "added_at": "2026-02-24T10:42:14.390275Z"
+      },
+      {
+        "product_id": 694,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 143.47,
+        "added_at": "2026-02-24T09:02:28.474116Z"
+      },
+      {
+        "product_id": 4441,
+        "variant_key": "white",
+        "quantity": 1,
+        "price": 128.27,
+        "added_at": "2026-02-23T07:58:17.618418Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-27T06:04:12.068557Z",
+    "created_at": "2026-02-26T11:04:12.068557Z"
+  },
+  {
+    "user_id": 511,
+    "items": [
+      {
+        "product_id": 1561,
+        "variant_key": "space-gray",
+        "quantity": 1,
+        "price": 381.22,
+        "added_at": "2026-02-24T10:30:24.990849Z"
+      },
+      {
+        "product_id": 1112,
+        "variant_key": "red-M",
+        "quantity": 1,
+        "price": 34.0,
+        "added_at": "2026-03-01T04:09:19.023866Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-28T20:27:48.490073Z",
+    "created_at": "2026-02-28T00:27:48.490073Z"
+  },
+  {
+    "user_id": 50,
+    "items": [
+      {
+        "product_id": 2399,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 83.22,
+        "added_at": "2026-02-23T07:56:55.525213Z"
+      },
+      {
+        "product_id": 3331,
+        "variant_key": "black",
+        "quantity": 3,
+        "price": 423.73,
+        "added_at": "2026-02-24T12:01:46.202866Z"
+      },
+      {
+        "product_id": 883,
+        "variant_key": "black",
+        "quantity": 2,
+        "price": 143.64,
+        "added_at": "2026-02-27T12:25:58.760314Z"
+      },
+      {
+        "product_id": 1901,
+        "variant_key": "black",
+        "quantity": 3,
+        "price": 426.28,
+        "added_at": "2026-02-24T08:02:11.421098Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-23T18:16:23.206109Z",
+    "created_at": "2026-02-22T15:16:23.206109Z"
+  },
+  {
+    "user_id": 116,
+    "items": [
+      {
+        "product_id": 3247,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 79.39,
+        "added_at": "2026-03-01T09:12:40.012703Z"
+      },
+      {
+        "product_id": 4524,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 103.53,
+        "added_at": "2026-02-26T19:58:47.862843Z"
+      },
+      {
+        "product_id": 1154,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 159.64,
+        "added_at": "2026-02-26T03:27:12.436713Z"
+      },
+      {
+        "product_id": 4773,
+        "variant_key": "white",
+        "quantity": 1,
+        "price": 92.76,
+        "added_at": "2026-02-28T07:51:38.827811Z"
+      },
+      {
+        "product_id": 735,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 29.34,
+        "added_at": "2026-02-28T11:42:15.184249Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-24T04:02:00.916206Z",
+    "created_at": "2026-02-23T23:02:00.916206Z"
+  },
+  {
+    "user_id": 510,
+    "items": [
+      {
+        "product_id": 2159,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 110.91,
+        "added_at": "2026-02-23T12:19:44.756446Z"
+      },
+      {
+        "product_id": 2475,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 38.1,
+        "added_at": "2026-02-25T20:27:40.755119Z"
+      },
+      {
+        "product_id": 479,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 43.95,
+        "added_at": "2026-02-25T19:12:21.351202Z"
+      },
+      {
+        "product_id": 4396,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 44.94,
+        "added_at": "2026-02-26T02:30:17.519229Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-27T22:31:46.073753Z",
+    "created_at": "2026-02-27T11:31:46.073753Z"
+  },
+  {
+    "user_id": 199,
+    "items": [
+      {
+        "product_id": 4994,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 45.07,
+        "added_at": "2026-02-27T13:10:11.878203Z"
+      },
+      {
+        "product_id": 3202,
+        "variant_key": "aqua-XL",
+        "quantity": 1,
+        "price": 101.82,
+        "added_at": "2026-03-01T17:23:04.119834Z"
+      },
+      {
+        "product_id": 3674,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 242.67,
+        "added_at": "2026-02-23T12:34:44.128473Z"
+      },
+      {
+        "product_id": 1307,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 47.36,
+        "added_at": "2026-02-25T15:41:06.351415Z"
+      },
+      {
+        "product_id": 1094,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 199.82,
+        "added_at": "2026-02-25T05:02:51.215743Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-28T20:48:20.549986Z",
+    "created_at": "2026-02-28T19:48:20.549986Z"
+  },
+  {
+    "user_id": 659,
+    "items": [
+      {
+        "product_id": 134,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 97.52,
+        "added_at": "2026-02-24T13:49:08.350755Z"
+      },
+      {
+        "product_id": 3288,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 20.31,
+        "added_at": "2026-02-24T03:59:59.347825Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-25T23:24:42.473729Z",
+    "created_at": "2026-02-25T22:24:42.473729Z"
+  },
+  {
+    "user_id": 168,
+    "items": [
+      {
+        "product_id": 180,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 57.24,
+        "added_at": "2026-02-25T18:55:15.015772Z"
+      },
+      {
+        "product_id": 2078,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 9.57,
+        "added_at": "2026-02-24T18:50:25.103495Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-24T14:00:43.939679Z",
+    "created_at": "2026-02-24T09:00:43.939679Z"
+  },
+  {
+    "user_id": 891,
+    "items": [
+      {
+        "product_id": 3505,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 57.88,
+        "added_at": "2026-03-01T07:09:12.034442Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-25T22:29:26.474608Z",
+    "created_at": "2026-02-24T17:29:26.474608Z"
+  },
+  {
+    "user_id": 664,
+    "items": [
+      {
+        "product_id": 1164,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 100.92,
+        "added_at": "2026-02-28T20:45:04.938560Z"
+      },
+      {
+        "product_id": 4997,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 76.2,
+        "added_at": "2026-02-26T16:29:57.748970Z"
+      },
+      {
+        "product_id": 2041,
+        "variant_key": "space-gray",
+        "quantity": 1,
+        "price": 18.98,
+        "added_at": "2026-02-23T04:32:36.821697Z"
+      },
+      {
+        "product_id": 2278,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 13.92,
+        "added_at": "2026-03-01T19:55:27.036896Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-28T16:29:50.483456Z",
+    "created_at": "2026-02-28T10:29:50.483456Z"
+  },
+  {
+    "user_id": 977,
+    "items": [
+      {
+        "product_id": 1891,
+        "variant_key": "space-gray",
+        "quantity": 2,
+        "price": 111.84,
+        "added_at": "2026-03-01T14:50:09.936406Z"
+      },
+      {
+        "product_id": 1398,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 32.05,
+        "added_at": "2026-03-01T07:40:27.751323Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-28T18:37:32.180174Z",
+    "created_at": "2026-02-28T00:37:32.180174Z"
+  },
+  {
+    "user_id": 693,
+    "items": [
+      {
+        "product_id": 383,
+        "variant_key": "black",
+        "quantity": 3,
+        "price": 34.56,
+        "added_at": "2026-02-23T23:59:05.959693Z"
+      },
+      {
+        "product_id": 2425,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 39.84,
+        "added_at": "2026-02-26T05:37:56.752673Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-24T07:57:15.366556Z",
+    "created_at": "2026-02-22T07:57:15.366556Z"
+  },
+  {
+    "user_id": 26,
+    "items": [
+      {
+        "product_id": 745,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 19.47,
+        "added_at": "2026-02-25T15:25:10.168934Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-23T05:53:43.689903Z",
+    "created_at": "2026-02-22T18:53:43.689903Z"
+  },
+  {
+    "user_id": 709,
+    "items": [
+      {
+        "product_id": 2398,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 35.75,
+        "added_at": "2026-02-25T11:42:43.942357Z"
+      },
+      {
+        "product_id": 480,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 57.88,
+        "added_at": "2026-03-01T17:34:35.788718Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-24T16:35:55.809582Z",
+    "created_at": "2026-02-23T23:35:55.809582Z"
+  },
+  {
+    "user_id": 542,
+    "items": [
+      {
+        "product_id": 3790,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 62.53,
+        "added_at": "2026-02-28T07:46:06.900059Z"
+      },
+      {
+        "product_id": 4057,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 27.76,
+        "added_at": "2026-02-26T00:29:10.060567Z"
+      },
+      {
+        "product_id": 3391,
+        "variant_key": "black",
+        "quantity": 3,
+        "price": 320.62,
+        "added_at": "2026-02-25T19:06:35.927527Z"
+      },
+      {
+        "product_id": 4922,
+        "variant_key": "pink-S",
+        "quantity": 2,
+        "price": 83.59,
+        "added_at": "2026-03-01T12:52:26.709192Z"
+      },
+      {
+        "product_id": 410,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 68.08,
+        "added_at": "2026-03-01T19:16:32.642605Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-26T17:24:49.681996Z",
+    "created_at": "2026-02-25T06:24:49.681996Z"
+  },
+  {
+    "user_id": 421,
+    "items": [
+      {
+        "product_id": 4398,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 6.11,
+        "added_at": "2026-02-27T20:44:14.324899Z"
+      },
+      {
+        "product_id": 3844,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 121.01,
+        "added_at": "2026-02-23T22:03:02.119926Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-24T21:53:29.892859Z",
+    "created_at": "2026-02-24T16:53:29.892859Z"
+  },
+  {
+    "user_id": 816,
+    "items": [
+      {
+        "product_id": 1275,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 17.8,
+        "added_at": "2026-03-01T14:47:16.423933Z"
+      },
+      {
+        "product_id": 329,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 49.89,
+        "added_at": "2026-02-26T21:20:49.239886Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-26T15:08:00.657791Z",
+    "created_at": "2026-02-25T04:08:00.657791Z"
+  },
+  {
+    "user_id": 350,
+    "items": [
+      {
+        "product_id": 2087,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 23.21,
+        "added_at": "2026-02-28T01:42:16.618917Z"
+      },
+      {
+        "product_id": 3977,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 6.77,
+        "added_at": "2026-02-23T05:38:54.557055Z"
+      },
+      {
+        "product_id": 1538,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 32.27,
+        "added_at": "2026-02-26T22:11:11.609129Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-26T08:31:24.911590Z",
+    "created_at": "2026-02-25T20:31:24.911590Z"
+  },
+  {
+    "user_id": 897,
+    "items": [
+      {
+        "product_id": 1065,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 52.43,
+        "added_at": "2026-02-28T19:18:05.990711Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-23T22:29:36.313858Z",
+    "created_at": "2026-02-23T14:29:36.313858Z"
+  },
+  {
+    "user_id": 760,
+    "items": [
+      {
+        "product_id": 3752,
+        "variant_key": "aqua-S",
+        "quantity": 1,
+        "price": 31.18,
+        "added_at": "2026-03-01T13:27:20.080700Z"
+      },
+      {
+        "product_id": 2840,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 62.99,
+        "added_at": "2026-02-23T09:30:12.414177Z"
+      },
+      {
+        "product_id": 410,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 68.08,
+        "added_at": "2026-02-24T03:15:47.936401Z"
+      },
+      {
+        "product_id": 406,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 69.3,
+        "added_at": "2026-02-27T00:00:38.232381Z"
+      },
+      {
+        "product_id": 296,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 56.94,
+        "added_at": "2026-02-27T13:28:49.552420Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-24T11:33:32.315696Z",
+    "created_at": "2026-02-23T12:33:32.315696Z"
+  },
+  {
+    "user_id": 841,
+    "items": [
+      {
+        "product_id": 4815,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 35.28,
+        "added_at": "2026-02-23T16:11:08.424115Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-03-01T01:36:46.767586Z",
+    "created_at": "2026-02-28T13:36:46.767586Z"
+  },
+  {
+    "user_id": 152,
+    "items": [
+      {
+        "product_id": 2608,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 11.59,
+        "added_at": "2026-02-24T13:24:32.042343Z"
+      },
+      {
+        "product_id": 836,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 79.69,
+        "added_at": "2026-02-26T23:55:26.184057Z"
+      },
+      {
+        "product_id": 1165,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 33.94,
+        "added_at": "2026-02-27T04:06:02.937449Z"
+      },
+      {
+        "product_id": 2086,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 16.8,
+        "added_at": "2026-02-25T18:28:28.228795Z"
+      },
+      {
+        "product_id": 4568,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 12.09,
+        "added_at": "2026-02-26T22:06:06.000563Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-26T11:52:19.986354Z",
+    "created_at": "2026-02-26T09:52:19.986354Z"
+  },
+  {
+    "user_id": 228,
+    "items": [
+      {
+        "product_id": 2370,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 80.66,
+        "added_at": "2026-03-01T09:04:31.344679Z"
+      },
+      {
+        "product_id": 926,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 71.25,
+        "added_at": "2026-02-24T06:21:36.963811Z"
+      },
+      {
+        "product_id": 3088,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 15.5,
+        "added_at": "2026-02-27T20:21:53.801117Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-24T12:08:38.264142Z",
+    "created_at": "2026-02-22T22:08:38.264142Z"
+  },
+  {
+    "user_id": 927,
+    "items": [
+      {
+        "product_id": 1576,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 84.45,
+        "added_at": "2026-02-25T14:32:12.280139Z"
+      },
+      {
+        "product_id": 13,
+        "variant_key": "natural",
+        "quantity": 1,
+        "price": 94.37,
+        "added_at": "2026-02-27T12:53:19.246846Z"
+      },
+      {
+        "product_id": 2375,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 47.15,
+        "added_at": "2026-02-24T22:26:39.233862Z"
+      },
+      {
+        "product_id": 3628,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 20.85,
+        "added_at": "2026-02-25T01:09:44.968305Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-28T02:21:28.645012Z",
+    "created_at": "2026-02-26T16:21:28.645012Z"
+  },
+  {
+    "user_id": 456,
+    "items": [
+      {
+        "product_id": 4167,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 70.4,
+        "added_at": "2026-02-23T08:13:55.075645Z"
+      },
+      {
+        "product_id": 2220,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 42.55,
+        "added_at": "2026-02-26T01:02:12.084080Z"
+      },
+      {
+        "product_id": 1362,
+        "variant_key": "red-M",
+        "quantity": 2,
+        "price": 150.88,
+        "added_at": "2026-03-01T19:47:06.245829Z"
+      },
+      {
+        "product_id": 3093,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 16.81,
+        "added_at": "2026-03-01T19:23:20.131663Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-23T08:21:09.084121Z",
+    "created_at": "2026-02-23T03:21:09.084121Z"
+  },
+  {
+    "user_id": 474,
+    "items": [
+      {
+        "product_id": 2566,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 88.37,
+        "added_at": "2026-02-24T07:51:16.728059Z"
+      },
+      {
+        "product_id": 3672,
+        "variant_key": "blue-L",
+        "quantity": 2,
+        "price": 167.44,
+        "added_at": "2026-02-24T16:35:54.210841Z"
+      },
+      {
+        "product_id": 1489,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 33.51,
+        "added_at": "2026-03-01T08:49:56.271811Z"
+      },
+      {
+        "product_id": 1714,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 186.35,
+        "added_at": "2026-03-01T00:01:47.652246Z"
+      },
+      {
+        "product_id": 2594,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 91.96,
+        "added_at": "2026-02-28T23:45:43.642655Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-25T10:07:30.983269Z",
+    "created_at": "2026-02-24T22:07:30.983269Z"
+  },
+  {
+    "user_id": 464,
+    "items": [
+      {
+        "product_id": 4080,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 89.42,
+        "added_at": "2026-02-23T22:32:46.284210Z"
+      },
+      {
+        "product_id": 1397,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 42.55,
+        "added_at": "2026-02-28T16:06:49.948566Z"
+      },
+      {
+        "product_id": 4647,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 13.06,
+        "added_at": "2026-02-27T18:14:21.946693Z"
+      },
+      {
+        "product_id": 3428,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 17.74,
+        "added_at": "2026-02-27T02:48:23.712711Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-03-01T17:53:59.556884Z",
+    "created_at": "2026-02-28T06:53:59.556884Z"
+  },
+  {
+    "user_id": 136,
+    "items": [
+      {
+        "product_id": 1162,
+        "variant_key": "aqua-M",
+        "quantity": 1,
+        "price": 135.53,
+        "added_at": "2026-02-27T09:54:45.876951Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-22T21:21:32.415206Z",
+    "created_at": "2026-02-21T03:21:32.415206Z"
+  },
+  {
+    "user_id": 592,
+    "items": [
+      {
+        "product_id": 4692,
+        "variant_key": "navy-M",
+        "quantity": 1,
+        "price": 154.93,
+        "added_at": "2026-02-28T13:19:05.580918Z"
+      },
+      {
+        "product_id": 4854,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 21.41,
+        "added_at": "2026-02-24T22:20:25.269331Z"
+      },
+      {
+        "product_id": 585,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 39.63,
+        "added_at": "2026-02-27T11:29:38.494812Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-03-01T09:47:05.866375Z",
+    "created_at": "2026-03-01T06:47:05.866375Z"
+  },
+  {
+    "user_id": 441,
+    "items": [
+      {
+        "product_id": 4845,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 37.67,
+        "added_at": "2026-02-23T18:36:20.265985Z"
+      },
+      {
+        "product_id": 4765,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 49.03,
+        "added_at": "2026-02-23T15:26:12.259870Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-23T14:01:36.359319Z",
+    "created_at": "2026-02-22T22:01:36.359319Z"
+  },
+  {
+    "user_id": 410,
+    "items": [
+      {
+        "product_id": 1263,
+        "variant_key": "white",
+        "quantity": 1,
+        "price": 11.24,
+        "added_at": "2026-02-26T16:59:10.658007Z"
+      },
+      {
+        "product_id": 2431,
+        "variant_key": "space-gray",
+        "quantity": 1,
+        "price": 168.49,
+        "added_at": "2026-02-24T17:47:57.198808Z"
+      },
+      {
+        "product_id": 351,
+        "variant_key": "white",
+        "quantity": 2,
+        "price": 482.78,
+        "added_at": "2026-02-27T01:39:22.079388Z"
+      },
+      {
+        "product_id": 623,
+        "variant_key": "natural",
+        "quantity": 3,
+        "price": 47.76,
+        "added_at": "2026-02-27T20:36:12.850781Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-24T06:14:56.654496Z",
+    "created_at": "2026-02-22T14:14:56.654496Z"
+  },
+  {
+    "user_id": 699,
+    "items": [
+      {
+        "product_id": 222,
+        "variant_key": "green-L",
+        "quantity": 1,
+        "price": 34.61,
+        "added_at": "2026-02-27T06:35:48.117534Z"
+      },
+      {
+        "product_id": 1594,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 226.97,
+        "added_at": "2026-02-24T16:23:38.463706Z"
+      },
+      {
+        "product_id": 877,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 68.73,
+        "added_at": "2026-02-26T06:07:05.064180Z"
+      },
+      {
+        "product_id": 4410,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 10.79,
+        "added_at": "2026-03-01T04:08:28.509805Z"
+      },
+      {
+        "product_id": 2234,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 115.14,
+        "added_at": "2026-02-28T18:11:24.525801Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-23T11:33:03.113273Z",
+    "created_at": "2026-02-23T06:33:03.113273Z"
+  },
+  {
+    "user_id": 332,
+    "items": [
+      {
+        "product_id": 1449,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 121.92,
+        "added_at": "2026-02-25T19:12:19.627247Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-24T18:31:37.199458Z",
+    "created_at": "2026-02-24T13:31:37.199458Z"
+  },
+  {
+    "user_id": 417,
+    "items": [
+      {
+        "product_id": 2426,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 51.36,
+        "added_at": "2026-02-22T20:38:25.432760Z"
+      },
+      {
+        "product_id": 3052,
+        "variant_key": "white-L",
+        "quantity": 1,
+        "price": 127.62,
+        "added_at": "2026-02-28T05:35:33.906082Z"
+      },
+      {
+        "product_id": 3568,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 35.36,
+        "added_at": "2026-02-27T07:04:47.170592Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-24T16:03:11.542720Z",
+    "created_at": "2026-02-23T14:03:11.542720Z"
+  },
+  {
+    "user_id": 193,
+    "items": [
+      {
+        "product_id": 70,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 42.65,
+        "added_at": "2026-02-28T00:34:17.453369Z"
+      },
+      {
+        "product_id": 899,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 101.34,
+        "added_at": "2026-02-26T16:43:37.318697Z"
+      },
+      {
+        "product_id": 4557,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 76.63,
+        "added_at": "2026-02-25T19:53:46.048599Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-22T21:40:09.234323Z",
+    "created_at": "2026-02-22T01:40:09.234323Z"
+  },
+  {
+    "user_id": 200,
+    "items": [
+      {
+        "product_id": 8,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 26.7,
+        "added_at": "2026-02-23T08:41:08.486573Z"
+      },
+      {
+        "product_id": 1456,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 60.74,
+        "added_at": "2026-03-01T00:24:23.746668Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-03-01T03:54:17.000079Z",
+    "created_at": "2026-02-27T17:54:17.000079Z"
+  },
+  {
+    "user_id": 480,
+    "items": [
+      {
+        "product_id": 2004,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 83.62,
+        "added_at": "2026-02-26T15:42:14.006912Z"
+      },
+      {
+        "product_id": 2682,
+        "variant_key": "navy-S",
+        "quantity": 3,
+        "price": 99.22,
+        "added_at": "2026-02-28T16:15:24.068027Z"
+      },
+      {
+        "product_id": 3291,
+        "variant_key": "space-gray",
+        "quantity": 2,
+        "price": 265.36,
+        "added_at": "2026-02-26T21:54:22.785813Z"
+      },
+      {
+        "product_id": 2547,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 73.87,
+        "added_at": "2026-02-23T20:55:28.121511Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-23T17:27:20.050062Z",
+    "created_at": "2026-02-21T18:27:20.050062Z"
+  },
+  {
+    "user_id": 4,
+    "items": [
+      {
+        "product_id": 1784,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 225.16,
+        "added_at": "2026-02-24T23:49:55.650038Z"
+      },
+      {
+        "product_id": 1477,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 13.2,
+        "added_at": "2026-03-01T03:04:25.004391Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-28T09:47:35.769996Z",
+    "created_at": "2026-02-26T11:47:35.769996Z"
+  },
+  {
+    "user_id": 115,
+    "items": [
+      {
+        "product_id": 1187,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 77.93,
+        "added_at": "2026-02-28T20:38:33.921594Z"
+      },
+      {
+        "product_id": 1584,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 139.87,
+        "added_at": "2026-03-01T03:03:50.620171Z"
+      },
+      {
+        "product_id": 2504,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 89.31,
+        "added_at": "2026-02-24T07:20:15.290388Z"
+      },
+      {
+        "product_id": 2330,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 98.87,
+        "added_at": "2026-02-24T13:57:56.586282Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-23T13:18:50.582387Z",
+    "created_at": "2026-02-22T02:18:50.582387Z"
+  },
+  {
+    "user_id": 286,
+    "items": [
+      {
+        "product_id": 924,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 197.24,
+        "added_at": "2026-02-28T07:06:15.303084Z"
+      },
+      {
+        "product_id": 3979,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 115.22,
+        "added_at": "2026-03-01T00:34:45.667438Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-25T16:18:58.045371Z",
+    "created_at": "2026-02-24T00:18:58.045371Z"
+  },
+  {
+    "user_id": 64,
+    "items": [
+      {
+        "product_id": 1257,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 77.39,
+        "added_at": "2026-02-27T04:18:57.081339Z"
+      },
+      {
+        "product_id": 4993,
+        "variant_key": "white",
+        "quantity": 3,
+        "price": 126.34,
+        "added_at": "2026-02-23T22:00:34.859023Z"
+      },
+      {
+        "product_id": 2275,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 29.29,
+        "added_at": "2026-03-01T08:15:53.038291Z"
+      },
+      {
+        "product_id": 1318,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 37.98,
+        "added_at": "2026-02-28T21:17:54.525074Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-03-01T16:02:50.408717Z",
+    "created_at": "2026-02-28T04:02:50.408717Z"
+  },
+  {
+    "user_id": 662,
+    "items": [
+      {
+        "product_id": 468,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 18.47,
+        "added_at": "2026-02-28T12:15:15.736220Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-03-01T00:07:21.520580Z",
+    "created_at": "2026-02-27T21:07:21.520580Z"
+  },
+  {
+    "user_id": 848,
+    "items": [
+      {
+        "product_id": 1378,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 14.83,
+        "added_at": "2026-02-23T00:12:31.791676Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-27T23:47:15.192518Z",
+    "created_at": "2026-02-27T00:47:15.192518Z"
+  },
+  {
+    "user_id": 48,
+    "items": [
+      {
+        "product_id": 1322,
+        "variant_key": "aqua-L",
+        "quantity": 2,
+        "price": 73.69,
+        "added_at": "2026-02-25T03:51:06.771014Z"
+      },
+      {
+        "product_id": 1585,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 17.31,
+        "added_at": "2026-03-01T08:25:18.447882Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-28T10:49:12.812029Z",
+    "created_at": "2026-02-28T09:49:12.812029Z"
+  },
+  {
+    "user_id": 782,
+    "items": [
+      {
+        "product_id": 381,
+        "variant_key": "space-gray",
+        "quantity": 1,
+        "price": 398.51,
+        "added_at": "2026-02-28T21:12:26.924361Z"
+      },
+      {
+        "product_id": 2214,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 188.61,
+        "added_at": "2026-02-28T12:15:02.186664Z"
+      },
+      {
+        "product_id": 1925,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 32.69,
+        "added_at": "2026-02-24T16:52:05.093163Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-28T08:19:25.103125Z",
+    "created_at": "2026-02-26T11:19:25.103125Z"
+  },
+  {
+    "user_id": 645,
+    "items": [
+      {
+        "product_id": 3424,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 37.55,
+        "added_at": "2026-02-23T14:12:17.234848Z"
+      },
+      {
+        "product_id": 4625,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 45.74,
+        "added_at": "2026-02-28T22:34:07.470302Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-28T20:17:18.198409Z",
+    "created_at": "2026-02-27T18:17:18.198409Z"
+  },
+  {
+    "user_id": 718,
+    "items": [
+      {
+        "product_id": 3541,
+        "variant_key": "black",
+        "quantity": 2,
+        "price": 347.82,
+        "added_at": "2026-02-24T09:24:48.912372Z"
+      },
+      {
+        "product_id": 3573,
+        "variant_key": "black",
+        "quantity": 1,
+        "price": 12.5,
+        "added_at": "2026-02-28T13:13:52.579065Z"
+      },
+      {
+        "product_id": 1453,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 54.88,
+        "added_at": "2026-02-26T01:22:32.396334Z"
+      },
+      {
+        "product_id": 4110,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 31.77,
+        "added_at": "2026-02-24T23:19:00.436566Z"
+      },
+      {
+        "product_id": 1670,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 67.26,
+        "added_at": "2026-02-28T09:39:45.957888Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-24T10:16:50.750784Z",
+    "created_at": "2026-02-22T10:16:50.750784Z"
+  },
+  {
+    "user_id": 366,
+    "items": [
+      {
+        "product_id": 4143,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 90.33,
+        "added_at": "2026-02-23T00:01:13.250108Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-24T04:29:25.895981Z",
+    "created_at": "2026-02-22T11:29:25.895981Z"
+  },
+  {
+    "user_id": 835,
+    "items": [
+      {
+        "product_id": 3298,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 19.6,
+        "added_at": "2026-02-25T03:11:33.828084Z"
+      },
+      {
+        "product_id": 3727,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 67.57,
+        "added_at": "2026-02-28T21:15:21.659340Z"
+      },
+      {
+        "product_id": 3556,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 74.64,
+        "added_at": "2026-03-01T14:28:55.530128Z"
+      },
+      {
+        "product_id": 7,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 50.23,
+        "added_at": "2026-02-24T18:56:15.795598Z"
+      },
+      {
+        "product_id": 1271,
+        "variant_key": "white",
+        "quantity": 1,
+        "price": 184.12,
+        "added_at": "2026-02-27T07:48:49.155510Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-25T15:11:26.486861Z",
+    "created_at": "2026-02-23T17:11:26.486861Z"
+  },
+  {
+    "user_id": 157,
+    "items": [
+      {
+        "product_id": 1249,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 61.86,
+        "added_at": "2026-03-01T16:52:40.330817Z"
+      },
+      {
+        "product_id": 4429,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 81.02,
+        "added_at": "2026-02-26T14:07:44.275003Z"
+      },
+      {
+        "product_id": 1531,
+        "variant_key": "black",
+        "quantity": 3,
+        "price": 377.71,
+        "added_at": "2026-03-01T09:50:11.622468Z"
+      },
+      {
+        "product_id": 4916,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 11.64,
+        "added_at": "2026-02-23T15:25:19.691520Z"
+      },
+      {
+        "product_id": 3907,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 20.16,
+        "added_at": "2026-03-01T15:04:19.289546Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-24T02:02:38.815221Z",
+    "created_at": "2026-02-22T05:02:38.815221Z"
+  },
+  {
+    "user_id": 834,
+    "items": [
+      {
+        "product_id": 3327,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 76.67,
+        "added_at": "2026-03-01T13:45:01.754173Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-24T16:38:35.056054Z",
+    "created_at": "2026-02-24T09:38:35.056054Z"
+  },
+  {
+    "user_id": 450,
+    "items": [
+      {
+        "product_id": 3462,
+        "variant_key": "pink-M",
+        "quantity": 3,
+        "price": 66.86,
+        "added_at": "2026-02-23T14:15:22.860555Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-25T21:03:05.161180Z",
+    "created_at": "2026-02-25T20:03:05.161180Z"
+  },
+  {
+    "user_id": 550,
+    "items": [
+      {
+        "product_id": 4282,
+        "variant_key": "red-M",
+        "quantity": 3,
+        "price": 156.6,
+        "added_at": "2026-02-27T22:26:25.052683Z"
+      },
+      {
+        "product_id": 2183,
+        "variant_key": "natural",
+        "quantity": 1,
+        "price": 52.03,
+        "added_at": "2026-02-25T00:44:33.039625Z"
+      },
+      {
+        "product_id": 1044,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 135.71,
+        "added_at": "2026-02-27T01:53:16.114480Z"
+      },
+      {
+        "product_id": 3643,
+        "variant_key": "natural",
+        "quantity": 1,
+        "price": 60.22,
+        "added_at": "2026-02-26T09:57:49.666488Z"
+      },
+      {
+        "product_id": 3774,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 134.98,
+        "added_at": "2026-02-25T12:45:27.198087Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-26T20:54:41.448707Z",
+    "created_at": "2026-02-25T17:54:41.448707Z"
+  },
+  {
+    "user_id": 65,
+    "items": [
+      {
+        "product_id": 4369,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 86.25,
+        "added_at": "2026-02-24T14:50:17.171713Z"
+      },
+      {
+        "product_id": 2449,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 15.33,
+        "added_at": "2026-02-27T19:07:14.339663Z"
+      },
+      {
+        "product_id": 4076,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 10.99,
+        "added_at": "2026-02-22T20:19:43.885067Z"
+      },
+      {
+        "product_id": 137,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 11.83,
+        "added_at": "2026-03-01T07:32:28.860094Z"
+      },
+      {
+        "product_id": 3202,
+        "variant_key": "white-S",
+        "quantity": 2,
+        "price": 101.82,
+        "added_at": "2026-02-26T14:30:16.767842Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-27T20:54:32.263483Z",
+    "created_at": "2026-02-26T18:54:32.263483Z"
+  },
+  {
+    "user_id": 947,
+    "items": [
+      {
+        "product_id": 3150,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 63.22,
+        "added_at": "2026-02-28T00:41:32.407077Z"
+      },
+      {
+        "product_id": 2900,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 87.89,
+        "added_at": "2026-02-27T12:42:37.119481Z"
+      },
+      {
+        "product_id": 2652,
+        "variant_key": "pink-S",
+        "quantity": 1,
+        "price": 79.66,
+        "added_at": "2026-02-25T09:14:02.146133Z"
+      },
+      {
+        "product_id": 2524,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 21.22,
+        "added_at": "2026-02-23T07:48:01.160969Z"
+      },
+      {
+        "product_id": 2672,
+        "variant_key": "pink-S",
+        "quantity": 3,
+        "price": 86.55,
+        "added_at": "2026-02-27T11:38:11.951834Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-25T03:31:05.981799Z",
+    "created_at": "2026-02-23T08:31:05.981799Z"
+  },
+  {
+    "user_id": 377,
+    "items": [
+      {
+        "product_id": 74,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 211.23,
+        "added_at": "2026-02-25T00:46:57.182131Z"
+      },
+      {
+        "product_id": 2441,
+        "variant_key": "silver",
+        "quantity": 3,
+        "price": 318.34,
+        "added_at": "2026-02-28T18:30:40.641045Z"
+      },
+      {
+        "product_id": 4980,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 44.99,
+        "added_at": "2026-02-27T20:57:48.378271Z"
+      },
+      {
+        "product_id": 2197,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 74.83,
+        "added_at": "2026-02-24T22:29:55.907814Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-25T00:00:16.363704Z",
+    "created_at": "2026-02-23T21:00:16.363704Z"
+  },
+  {
+    "user_id": 334,
+    "items": [
+      {
+        "product_id": 4836,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 43.89,
+        "added_at": "2026-02-25T16:39:17.031133Z"
+      },
+      {
+        "product_id": 3588,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 21.31,
+        "added_at": "2026-02-25T15:38:52.754092Z"
+      },
+      {
+        "product_id": 177,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 65.97,
+        "added_at": "2026-02-24T21:42:53.266488Z"
+      },
+      {
+        "product_id": 4877,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 49.03,
+        "added_at": "2026-02-23T17:25:44.660871Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-25T18:40:46.942666Z",
+    "created_at": "2026-02-23T22:40:46.942666Z"
+  },
+  {
+    "user_id": 665,
+    "items": [
+      {
+        "product_id": 2089,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 49.71,
+        "added_at": "2026-03-01T10:01:32.948058Z"
+      },
+      {
+        "product_id": 4678,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 9.93,
+        "added_at": "2026-02-27T13:50:02.893301Z"
+      },
+      {
+        "product_id": 2260,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 91.71,
+        "added_at": "2026-03-01T03:42:57.794059Z"
+      },
+      {
+        "product_id": 1586,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 80.43,
+        "added_at": "2026-02-27T03:27:04.421167Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-24T22:36:15.484137Z",
+    "created_at": "2026-02-23T16:36:15.484137Z"
+  },
+  {
+    "user_id": 532,
+    "items": [
+      {
+        "product_id": 2368,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 12.99,
+        "added_at": "2026-02-26T16:05:53.426504Z"
+      },
+      {
+        "product_id": 2813,
+        "variant_key": "natural",
+        "quantity": 2,
+        "price": 57.22,
+        "added_at": "2026-02-22T20:06:46.512329Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-24T20:14:46.415962Z",
+    "created_at": "2026-02-23T06:14:46.415962Z"
+  },
+  {
+    "user_id": 675,
+    "items": [
+      {
+        "product_id": 4369,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 86.25,
+        "added_at": "2026-02-25T20:15:57.353114Z"
+      },
+      {
+        "product_id": 2400,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 82.9,
+        "added_at": "2026-02-26T21:28:55.795667Z"
+      },
+      {
+        "product_id": 2376,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 58.18,
+        "added_at": "2026-02-27T10:02:06.961216Z"
+      },
+      {
+        "product_id": 4956,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 42.74,
+        "added_at": "2026-02-26T02:09:45.857461Z"
+      },
+      {
+        "product_id": 4217,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 76.29,
+        "added_at": "2026-02-25T22:19:39.246619Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-24T07:56:47.607318Z",
+    "created_at": "2026-02-23T20:56:47.607318Z"
+  },
+  {
+    "user_id": 47,
+    "items": [
+      {
+        "product_id": 258,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 21.81,
+        "added_at": "2026-02-26T03:32:24.005238Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-03-01T03:26:35.163461Z",
+    "created_at": "2026-02-27T21:26:35.163461Z"
+  },
+  {
+    "user_id": 38,
+    "items": [
+      {
+        "product_id": 3250,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 66.56,
+        "added_at": "2026-02-28T09:46:36.774925Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-24T00:33:10.356421Z",
+    "created_at": "2026-02-22T09:33:10.356421Z"
+  },
+  {
+    "user_id": 905,
+    "items": [
+      {
+        "product_id": 149,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 123.58,
+        "added_at": "2026-02-23T10:17:25.340611Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-26T10:38:26.375597Z",
+    "created_at": "2026-02-25T17:38:26.375597Z"
+  },
+  {
+    "user_id": 156,
+    "items": [
+      {
+        "product_id": 4261,
+        "variant_key": "silver",
+        "quantity": 1,
+        "price": 47.65,
+        "added_at": "2026-02-27T06:22:43.629567Z"
+      },
+      {
+        "product_id": 5,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 26.29,
+        "added_at": "2026-02-25T04:21:22.856872Z"
+      },
+      {
+        "product_id": 338,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 19.92,
+        "added_at": "2026-02-28T13:32:23.511352Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-28T02:14:09.345585Z",
+    "created_at": "2026-02-26T07:14:09.345585Z"
+  },
+  {
+    "user_id": 496,
+    "items": [
+      {
+        "product_id": 4515,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 22.89,
+        "added_at": "2026-02-27T13:04:27.821553Z"
+      },
+      {
+        "product_id": 4875,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 51.38,
+        "added_at": "2026-02-24T09:47:03.674795Z"
+      },
+      {
+        "product_id": 869,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 79.51,
+        "added_at": "2026-02-24T05:29:54.783313Z"
+      },
+      {
+        "product_id": 1938,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 34.57,
+        "added_at": "2026-02-23T00:08:53.474497Z"
+      },
+      {
+        "product_id": 3663,
+        "variant_key": "white",
+        "quantity": 1,
+        "price": 125.3,
+        "added_at": "2026-02-24T13:10:41.770658Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-26T03:52:03.460984Z",
+    "created_at": "2026-02-26T02:52:03.460984Z"
+  },
+  {
+    "user_id": 877,
+    "items": [
+      {
+        "product_id": 377,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 14.33,
+        "added_at": "2026-02-28T18:48:02.357709Z"
+      },
+      {
+        "product_id": 3198,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 16.81,
+        "added_at": "2026-02-23T08:16:47.513011Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-25T17:40:14.923451Z",
+    "created_at": "2026-02-24T02:40:14.923451Z"
+  },
+  {
+    "user_id": 969,
+    "items": [
+      {
+        "product_id": 1666,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 13.51,
+        "added_at": "2026-02-27T05:50:43.102270Z"
+      },
+      {
+        "product_id": 3174,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 84.18,
+        "added_at": "2026-02-24T04:42:35.431180Z"
+      },
+      {
+        "product_id": 4571,
+        "variant_key": "space-gray",
+        "quantity": 3,
+        "price": 376.49,
+        "added_at": "2026-02-27T17:01:56.050697Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-26T07:06:00.311817Z",
+    "created_at": "2026-02-25T02:06:00.311817Z"
+  },
+  {
+    "user_id": 183,
+    "items": [
+      {
+        "product_id": 2411,
+        "variant_key": "space-gray",
+        "quantity": 2,
+        "price": 303.55,
+        "added_at": "2026-02-24T13:02:02.789057Z"
+      },
+      {
+        "product_id": 4666,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 65.95,
+        "added_at": "2026-02-27T10:15:44.885120Z"
+      },
+      {
+        "product_id": 3931,
+        "variant_key": "space-gray",
+        "quantity": 1,
+        "price": 443.3,
+        "added_at": "2026-02-22T20:58:34.506010Z"
+      },
+      {
+        "product_id": 970,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 95.33,
+        "added_at": "2026-02-28T02:12:24.315459Z"
+      },
+      {
+        "product_id": 3396,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 28.46,
+        "added_at": "2026-02-28T05:24:44.934850Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-23T13:57:04.996962Z",
+    "created_at": "2026-02-21T20:57:04.996962Z"
+  },
+  {
+    "user_id": 747,
+    "items": [
+      {
+        "product_id": 3504,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 124.64,
+        "added_at": "2026-02-25T19:28:09.418097Z"
+      },
+      {
+        "product_id": 1007,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 77.65,
+        "added_at": "2026-02-24T01:35:37.265096Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-03-01T12:58:58.862371Z",
+    "created_at": "2026-02-28T17:58:58.862371Z"
+  },
+  {
+    "user_id": 132,
+    "items": [
+      {
+        "product_id": 2065,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 57.05,
+        "added_at": "2026-02-26T11:03:41.847468Z"
+      },
+      {
+        "product_id": 4877,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 49.03,
+        "added_at": "2026-02-23T04:28:53.079333Z"
+      },
+      {
+        "product_id": 3965,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 27.71,
+        "added_at": "2026-02-24T13:54:36.119538Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-28T18:33:54.822878Z",
+    "created_at": "2026-02-27T14:33:54.822878Z"
+  },
+  {
+    "user_id": 68,
+    "items": [
+      {
+        "product_id": 3284,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 202.78,
+        "added_at": "2026-02-26T00:43:49.112044Z"
+      },
+      {
+        "product_id": 2465,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 15.62,
+        "added_at": "2026-02-28T10:40:57.760722Z"
+      },
+      {
+        "product_id": 1162,
+        "variant_key": "aqua-XL",
+        "quantity": 1,
+        "price": 135.53,
+        "added_at": "2026-02-27T12:11:52.012668Z"
+      },
+      {
+        "product_id": 2651,
+        "variant_key": "space-gray",
+        "quantity": 3,
+        "price": 242.57,
+        "added_at": "2026-03-01T18:00:38.355615Z"
+      },
+      {
+        "product_id": 4894,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 33.15,
+        "added_at": "2026-02-27T00:04:50.562210Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-03-01T11:39:04.955186Z",
+    "created_at": "2026-02-28T14:39:04.955186Z"
+  },
+  {
+    "user_id": 317,
+    "items": [
+      {
+        "product_id": 1461,
+        "variant_key": "silver",
+        "quantity": 1,
+        "price": 168.29,
+        "added_at": "2026-03-01T01:48:15.399930Z"
+      },
+      {
+        "product_id": 1024,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 56.65,
+        "added_at": "2026-02-27T02:58:13.124806Z"
+      },
+      {
+        "product_id": 1933,
+        "variant_key": "black",
+        "quantity": 3,
+        "price": 129.87,
+        "added_at": "2026-02-27T20:52:57.891780Z"
+      },
+      {
+        "product_id": 2416,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 38.21,
+        "added_at": "2026-02-26T08:50:50.834086Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-28T15:34:49.233848Z",
+    "created_at": "2026-02-27T07:34:49.233848Z"
+  },
+  {
+    "user_id": 191,
+    "items": [
+      {
+        "product_id": 3936,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 30.46,
+        "added_at": "2026-02-26T16:05:13.955729Z"
+      },
+      {
+        "product_id": 4434,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 123.51,
+        "added_at": "2026-03-01T02:46:32.460835Z"
+      },
+      {
+        "product_id": 2668,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 13.24,
+        "added_at": "2026-02-28T00:58:43.811418Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-26T03:47:24.099391Z",
+    "created_at": "2026-02-24T12:47:24.099391Z"
+  },
+  {
+    "user_id": 328,
+    "items": [
+      {
+        "product_id": 2673,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 46.57,
+        "added_at": "2026-02-24T15:35:20.048512Z"
+      },
+      {
+        "product_id": 1899,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 82.49,
+        "added_at": "2026-02-24T13:34:51.593246Z"
+      },
+      {
+        "product_id": 51,
+        "variant_key": "black",
+        "quantity": 1,
+        "price": 109.1,
+        "added_at": "2026-02-27T07:10:18.636962Z"
+      },
+      {
+        "product_id": 1124,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 222.17,
+        "added_at": "2026-02-28T04:42:05.116263Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-26T11:37:23.126798Z",
+    "created_at": "2026-02-25T12:37:23.126798Z"
+  },
+  {
+    "user_id": 475,
+    "items": [
+      {
+        "product_id": 833,
+        "variant_key": "white",
+        "quantity": 3,
+        "price": 38.31,
+        "added_at": "2026-02-27T05:20:18.454687Z"
+      },
+      {
+        "product_id": 4882,
+        "variant_key": "red-L",
+        "quantity": 1,
+        "price": 106.21,
+        "added_at": "2026-02-24T18:10:37.535896Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-23T09:03:42.932417Z",
+    "created_at": "2026-02-22T17:03:42.932417Z"
+  },
+  {
+    "user_id": 679,
+    "items": [
+      {
+        "product_id": 1047,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 63.85,
+        "added_at": "2026-02-24T20:02:49.385642Z"
+      },
+      {
+        "product_id": 557,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 7.23,
+        "added_at": "2026-02-24T17:41:34.296763Z"
+      },
+      {
+        "product_id": 1173,
+        "variant_key": "white",
+        "quantity": 2,
+        "price": 92.55,
+        "added_at": "2026-02-25T01:45:21.346980Z"
+      },
+      {
+        "product_id": 4053,
+        "variant_key": "white",
+        "quantity": 2,
+        "price": 93.93,
+        "added_at": "2026-02-26T14:47:25.064179Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-23T19:17:29.632405Z",
+    "created_at": "2026-02-22T08:17:29.632405Z"
+  },
+  {
+    "user_id": 868,
+    "items": [
+      {
+        "product_id": 2019,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 30.18,
+        "added_at": "2026-02-24T10:53:47.942940Z"
+      },
+      {
+        "product_id": 2630,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 72.64,
+        "added_at": "2026-02-27T16:37:41.846478Z"
+      },
+      {
+        "product_id": 2661,
+        "variant_key": "space-gray",
+        "quantity": 1,
+        "price": 495.32,
+        "added_at": "2026-02-27T18:43:23.296897Z"
+      },
+      {
+        "product_id": 4788,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 29.61,
+        "added_at": "2026-02-23T06:50:06.608912Z"
+      },
+      {
+        "product_id": 2837,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 16.58,
+        "added_at": "2026-02-25T16:31:17.098774Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-26T15:12:12.217777Z",
+    "created_at": "2026-02-26T08:12:12.217777Z"
+  },
+  {
+    "user_id": 924,
+    "items": [
+      {
+        "product_id": 948,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 13.76,
+        "added_at": "2026-02-25T17:53:41.256786Z"
+      },
+      {
+        "product_id": 3017,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 78.56,
+        "added_at": "2026-02-24T06:47:34.438778Z"
+      },
+      {
+        "product_id": 546,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 62.78,
+        "added_at": "2026-02-25T18:37:43.799549Z"
+      },
+      {
+        "product_id": 428,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 20.64,
+        "added_at": "2026-03-01T04:03:27.311700Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-26T22:10:12.229711Z",
+    "created_at": "2026-02-25T07:10:12.229711Z"
+  },
+  {
+    "user_id": 123,
+    "items": [
+      {
+        "product_id": 2117,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 14.16,
+        "added_at": "2026-02-27T16:53:33.302234Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-28T19:58:32.533137Z",
+    "created_at": "2026-02-28T01:58:32.533137Z"
+  },
+  {
+    "user_id": 436,
+    "items": [
+      {
+        "product_id": 1887,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 72.17,
+        "added_at": "2026-02-28T04:39:52.599636Z"
+      },
+      {
+        "product_id": 1760,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 83.01,
+        "added_at": "2026-02-25T11:56:55.446295Z"
+      },
+      {
+        "product_id": 2438,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 12.37,
+        "added_at": "2026-02-22T21:02:06.951352Z"
+      },
+      {
+        "product_id": 2424,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 156.49,
+        "added_at": "2026-02-25T07:08:24.723856Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-28T02:37:42.755636Z",
+    "created_at": "2026-02-27T03:37:42.755636Z"
+  },
+  {
+    "user_id": 28,
+    "items": [
+      {
+        "product_id": 2460,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 50.73,
+        "added_at": "2026-02-28T19:25:26.320504Z"
+      },
+      {
+        "product_id": 2130,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 67.29,
+        "added_at": "2026-03-01T12:13:15.668707Z"
+      },
+      {
+        "product_id": 1665,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 16.43,
+        "added_at": "2026-02-25T18:26:25.071734Z"
+      },
+      {
+        "product_id": 1896,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 71.86,
+        "added_at": "2026-02-28T01:37:38.476598Z"
+      },
+      {
+        "product_id": 4378,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 25.09,
+        "added_at": "2026-02-26T15:47:41.820927Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-27T01:23:28.165792Z",
+    "created_at": "2026-02-26T17:23:28.165792Z"
+  },
+  {
+    "user_id": 619,
+    "items": [
+      {
+        "product_id": 1784,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 225.16,
+        "added_at": "2026-02-24T09:05:42.802327Z"
+      },
+      {
+        "product_id": 563,
+        "variant_key": "natural",
+        "quantity": 1,
+        "price": 23.47,
+        "added_at": "2026-02-24T08:54:27.204619Z"
+      },
+      {
+        "product_id": 4270,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 92.82,
+        "added_at": "2026-02-25T21:15:54.598313Z"
+      },
+      {
+        "product_id": 307,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 38.63,
+        "added_at": "2026-02-23T00:55:15.211104Z"
+      },
+      {
+        "product_id": 4383,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 58.2,
+        "added_at": "2026-02-25T04:30:52.148029Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-27T14:08:26.012065Z",
+    "created_at": "2026-02-26T15:08:26.012065Z"
+  },
+  {
+    "user_id": 309,
+    "items": [
+      {
+        "product_id": 3932,
+        "variant_key": "blue-XL",
+        "quantity": 2,
+        "price": 188.81,
+        "added_at": "2026-02-25T15:58:11.721494Z"
+      },
+      {
+        "product_id": 1609,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 73.16,
+        "added_at": "2026-02-23T23:46:20.053432Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-26T02:33:58.562256Z",
+    "created_at": "2026-02-24T22:33:58.562256Z"
+  },
+  {
+    "user_id": 233,
+    "items": [
+      {
+        "product_id": 2589,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 114.91,
+        "added_at": "2026-02-23T17:29:10.291796Z"
+      },
+      {
+        "product_id": 1488,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 37.48,
+        "added_at": "2026-02-27T04:35:02.009997Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-23T00:34:30.310112Z",
+    "created_at": "2026-02-22T04:34:30.310112Z"
+  },
+  {
+    "user_id": 588,
+    "items": [
+      {
+        "product_id": 2677,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 77.57,
+        "added_at": "2026-02-25T14:14:24.451034Z"
+      },
+      {
+        "product_id": 1855,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 51.99,
+        "added_at": "2026-02-26T18:51:45.271333Z"
+      },
+      {
+        "product_id": 410,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 68.08,
+        "added_at": "2026-02-23T00:35:52.317627Z"
+      },
+      {
+        "product_id": 4625,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 45.74,
+        "added_at": "2026-02-27T08:01:35.987116Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-23T18:50:32.049877Z",
+    "created_at": "2026-02-21T22:50:32.049877Z"
+  },
+  {
+    "user_id": 946,
+    "items": [
+      {
+        "product_id": 1541,
+        "variant_key": "space-gray",
+        "quantity": 2,
+        "price": 395.41,
+        "added_at": "2026-02-26T01:36:36.218962Z"
+      },
+      {
+        "product_id": 3126,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 17.71,
+        "added_at": "2026-02-23T04:29:33.146334Z"
+      },
+      {
+        "product_id": 3926,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 50.88,
+        "added_at": "2026-02-25T11:44:03.017061Z"
+      },
+      {
+        "product_id": 3104,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 148.78,
+        "added_at": "2026-02-24T07:36:13.139891Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-25T02:57:17.342792Z",
+    "created_at": "2026-02-23T12:57:17.342792Z"
+  },
+  {
+    "user_id": 811,
+    "items": [
+      {
+        "product_id": 2543,
+        "variant_key": "natural",
+        "quantity": 1,
+        "price": 142.63,
+        "added_at": "2026-02-28T03:55:52.727334Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-25T11:44:16.535173Z",
+    "created_at": "2026-02-25T02:44:16.535173Z"
+  },
+  {
+    "user_id": 127,
+    "items": [
+      {
+        "product_id": 4953,
+        "variant_key": "white",
+        "quantity": 2,
+        "price": 55.22,
+        "added_at": "2026-02-28T02:22:56.541286Z"
+      },
+      {
+        "product_id": 3523,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 49.88,
+        "added_at": "2026-02-28T15:48:28.807662Z"
+      },
+      {
+        "product_id": 432,
+        "variant_key": "aqua-XL",
+        "quantity": 3,
+        "price": 124.09,
+        "added_at": "2026-02-24T14:25:34.822422Z"
+      },
+      {
+        "product_id": 4712,
+        "variant_key": "navy-S",
+        "quantity": 1,
+        "price": 59.13,
+        "added_at": "2026-02-23T09:48:17.889574Z"
+      },
+      {
+        "product_id": 303,
+        "variant_key": "white",
+        "quantity": 1,
+        "price": 127.75,
+        "added_at": "2026-02-22T23:18:04.012008Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-26T14:40:01.640183Z",
+    "created_at": "2026-02-24T23:40:01.640183Z"
+  },
+  {
+    "user_id": 788,
+    "items": [
+      {
+        "product_id": 2788,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 23.21,
+        "added_at": "2026-03-01T20:01:45.254682Z"
+      },
+      {
+        "product_id": 4731,
+        "variant_key": "white",
+        "quantity": 3,
+        "price": 222.74,
+        "added_at": "2026-02-25T06:50:17.015882Z"
+      },
+      {
+        "product_id": 1917,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 6.86,
+        "added_at": "2026-02-27T09:16:08.147598Z"
+      },
+      {
+        "product_id": 780,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 46.7,
+        "added_at": "2026-02-28T07:17:30.748405Z"
+      },
+      {
+        "product_id": 4870,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 60.4,
+        "added_at": "2026-02-27T09:32:22.215492Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-28T02:45:21.241815Z",
+    "created_at": "2026-02-27T07:45:21.241815Z"
+  },
+  {
+    "user_id": 223,
+    "items": [
+      {
+        "product_id": 1395,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 17.17,
+        "added_at": "2026-03-01T11:34:46.175947Z"
+      },
+      {
+        "product_id": 2269,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 68.57,
+        "added_at": "2026-02-24T05:32:14.340693Z"
+      },
+      {
+        "product_id": 3751,
+        "variant_key": "space-gray",
+        "quantity": 2,
+        "price": 214.84,
+        "added_at": "2026-02-22T23:28:06.834475Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-23T21:38:41.842731Z",
+    "created_at": "2026-02-22T09:38:41.842731Z"
+  },
+  {
+    "user_id": 915,
+    "items": [
+      {
+        "product_id": 4017,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 9.11,
+        "added_at": "2026-02-23T17:14:59.445604Z"
+      },
+      {
+        "product_id": 4678,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 9.93,
+        "added_at": "2026-02-27T12:30:49.709226Z"
+      },
+      {
+        "product_id": 1036,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 80.43,
+        "added_at": "2026-02-26T18:47:29.803151Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-24T08:39:45.954340Z",
+    "created_at": "2026-02-23T20:39:45.954340Z"
+  },
+  {
+    "user_id": 408,
+    "items": [
+      {
+        "product_id": 586,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 11.81,
+        "added_at": "2026-02-27T17:33:17.414610Z"
+      },
+      {
+        "product_id": 4783,
+        "variant_key": "white",
+        "quantity": 3,
+        "price": 57.05,
+        "added_at": "2026-02-28T04:53:00.969886Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-24T00:13:59.873909Z",
+    "created_at": "2026-02-22T09:13:59.873909Z"
+  },
+  {
+    "user_id": 945,
+    "items": [
+      {
+        "product_id": 1128,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 35.1,
+        "added_at": "2026-02-27T02:03:44.284305Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-28T01:41:46.434303Z",
+    "created_at": "2026-02-27T12:41:46.434303Z"
+  },
+  {
+    "user_id": 826,
+    "items": [
+      {
+        "product_id": 3702,
+        "variant_key": "red-XL",
+        "quantity": 2,
+        "price": 92.35,
+        "added_at": "2026-02-23T15:17:10.480610Z"
+      },
+      {
+        "product_id": 118,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 5.32,
+        "added_at": "2026-02-28T13:41:14.350223Z"
+      },
+      {
+        "product_id": 4335,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 34.31,
+        "added_at": "2026-03-01T14:07:04.123531Z"
+      },
+      {
+        "product_id": 2693,
+        "variant_key": "white",
+        "quantity": 2,
+        "price": 30.31,
+        "added_at": "2026-02-23T14:12:19.123793Z"
+      },
+      {
+        "product_id": 1689,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 112.61,
+        "added_at": "2026-02-23T00:21:31.311741Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-25T00:27:12.741410Z",
+    "created_at": "2026-02-23T14:27:12.741410Z"
+  },
+  {
+    "user_id": 643,
+    "items": [
+      {
+        "product_id": 4288,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 17.52,
+        "added_at": "2026-02-27T13:50:20.639087Z"
+      },
+      {
+        "product_id": 1493,
+        "variant_key": "black",
+        "quantity": 3,
+        "price": 98.64,
+        "added_at": "2026-03-01T13:01:03.932547Z"
+      },
+      {
+        "product_id": 244,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 21.19,
+        "added_at": "2026-02-25T14:40:57.606229Z"
+      },
+      {
+        "product_id": 4119,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 65.35,
+        "added_at": "2026-02-27T20:10:01.893614Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-23T08:48:43.669800Z",
+    "created_at": "2026-02-23T00:48:43.669800Z"
+  },
+  {
+    "user_id": 711,
+    "items": [
+      {
+        "product_id": 4736,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 69.25,
+        "added_at": "2026-02-27T16:04:04.598756Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-27T05:25:17.200860Z",
+    "created_at": "2026-02-25T18:25:17.200860Z"
+  },
+  {
+    "user_id": 89,
+    "items": [
+      {
+        "product_id": 2254,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 23.48,
+        "added_at": "2026-02-23T13:09:50.909534Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-28T05:49:17.439219Z",
+    "created_at": "2026-02-28T03:49:17.439219Z"
+  },
+  {
+    "user_id": 507,
+    "items": [
+      {
+        "product_id": 4693,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 149.18,
+        "added_at": "2026-02-28T18:53:38.351001Z"
+      },
+      {
+        "product_id": 3648,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 19.49,
+        "added_at": "2026-02-27T00:54:49.944641Z"
+      },
+      {
+        "product_id": 385,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 51.86,
+        "added_at": "2026-02-23T16:22:55.103353Z"
+      },
+      {
+        "product_id": 1211,
+        "variant_key": "white",
+        "quantity": 2,
+        "price": 310.34,
+        "added_at": "2026-03-01T17:19:50.063796Z"
+      },
+      {
+        "product_id": 4794,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 155.16,
+        "added_at": "2026-02-28T07:31:38.857479Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-25T06:22:29.837259Z",
+    "created_at": "2026-02-25T00:22:29.837259Z"
+  },
+  {
+    "user_id": 169,
+    "items": [
+      {
+        "product_id": 4134,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 111.59,
+        "added_at": "2026-02-25T20:00:44.022404Z"
+      },
+      {
+        "product_id": 3807,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 12.29,
+        "added_at": "2026-02-25T10:18:02.265937Z"
+      },
+      {
+        "product_id": 2609,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 65.4,
+        "added_at": "2026-02-26T09:02:46.085597Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-25T05:22:17.614556Z",
+    "created_at": "2026-02-24T03:22:17.614556Z"
+  },
+  {
+    "user_id": 36,
+    "items": [
+      {
+        "product_id": 996,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 46.21,
+        "added_at": "2026-02-28T18:46:24.339209Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-28T14:11:46.739261Z",
+    "created_at": "2026-02-27T00:11:46.739261Z"
+  },
+  {
+    "user_id": 204,
+    "items": [
+      {
+        "product_id": 86,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 27.48,
+        "added_at": "2026-02-23T13:46:30.908966Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-03-01T13:27:25.320651Z",
+    "created_at": "2026-02-28T00:27:25.320651Z"
+  },
+  {
+    "user_id": 125,
+    "items": [
+      {
+        "product_id": 2519,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 24.4,
+        "added_at": "2026-02-27T06:49:22.872170Z"
+      },
+      {
+        "product_id": 2582,
+        "variant_key": "blue-L",
+        "quantity": 1,
+        "price": 179.7,
+        "added_at": "2026-02-28T15:16:03.181694Z"
+      },
+      {
+        "product_id": 1994,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 216.34,
+        "added_at": "2026-02-27T18:52:21.267714Z"
+      },
+      {
+        "product_id": 4702,
+        "variant_key": "black-L",
+        "quantity": 3,
+        "price": 112.45,
+        "added_at": "2026-02-25T21:12:23.625301Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-27T23:19:20.399867Z",
+    "created_at": "2026-02-27T02:19:20.399867Z"
+  },
+  {
+    "user_id": 203,
+    "items": [
+      {
+        "product_id": 828,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 26.53,
+        "added_at": "2026-03-01T14:14:39.512653Z"
+      },
+      {
+        "product_id": 2322,
+        "variant_key": "aqua-L",
+        "quantity": 1,
+        "price": 148.15,
+        "added_at": "2026-02-24T17:25:06.833335Z"
+      },
+      {
+        "product_id": 1112,
+        "variant_key": "green-M",
+        "quantity": 1,
+        "price": 34.0,
+        "added_at": "2026-02-28T11:49:19.887534Z"
+      },
+      {
+        "product_id": 3777,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 8.06,
+        "added_at": "2026-02-26T14:27:27.973820Z"
+      },
+      {
+        "product_id": 571,
+        "variant_key": "black",
+        "quantity": 3,
+        "price": 416.6,
+        "added_at": "2026-02-26T05:16:20.290349Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-25T21:13:16.453369Z",
+    "created_at": "2026-02-24T13:13:16.453369Z"
+  },
+  {
+    "user_id": 388,
+    "items": [
+      {
+        "product_id": 3106,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 50.48,
+        "added_at": "2026-02-27T22:51:25.654412Z"
+      },
+      {
+        "product_id": 3604,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 113.05,
+        "added_at": "2026-02-24T17:08:06.621412Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-28T19:07:57.119180Z",
+    "created_at": "2026-02-27T20:07:57.119180Z"
+  },
+  {
+    "user_id": 638,
+    "items": [
+      {
+        "product_id": 4912,
+        "variant_key": "black-L",
+        "quantity": 3,
+        "price": 106.19,
+        "added_at": "2026-02-28T15:36:27.120225Z"
+      },
+      {
+        "product_id": 2010,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 82.45,
+        "added_at": "2026-02-23T10:36:14.720744Z"
+      },
+      {
+        "product_id": 1983,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 17.53,
+        "added_at": "2026-03-01T00:09:31.540085Z"
+      },
+      {
+        "product_id": 59,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 66.1,
+        "added_at": "2026-02-24T13:00:49.608023Z"
+      },
+      {
+        "product_id": 2636,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 86.85,
+        "added_at": "2026-02-26T02:06:56.680602Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-27T02:34:49.614719Z",
+    "created_at": "2026-02-25T09:34:49.614719Z"
+  },
+  {
+    "user_id": 355,
+    "items": [
+      {
+        "product_id": 3690,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 5.94,
+        "added_at": "2026-02-25T11:42:53.731137Z"
+      },
+      {
+        "product_id": 2739,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 129.49,
+        "added_at": "2026-02-23T00:51:58.758651Z"
+      },
+      {
+        "product_id": 1962,
+        "variant_key": "blue-L",
+        "quantity": 3,
+        "price": 176.28,
+        "added_at": "2026-02-28T19:00:17.275402Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-24T02:35:37.745609Z",
+    "created_at": "2026-02-23T03:35:37.745609Z"
+  },
+  {
+    "user_id": 360,
+    "items": [
+      {
+        "product_id": 948,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 13.76,
+        "added_at": "2026-02-24T07:40:51.085389Z"
+      },
+      {
+        "product_id": 2378,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 5.57,
+        "added_at": "2026-02-28T10:04:50.009410Z"
+      },
+      {
+        "product_id": 349,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 65.1,
+        "added_at": "2026-02-25T05:13:17.932346Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-28T23:56:18.523758Z",
+    "created_at": "2026-02-27T16:56:18.523758Z"
+  },
+  {
+    "user_id": 727,
+    "items": [
+      {
+        "product_id": 1489,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 33.51,
+        "added_at": "2026-02-27T17:50:36.932201Z"
+      },
+      {
+        "product_id": 1298,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 29.67,
+        "added_at": "2026-02-24T18:27:28.234617Z"
+      },
+      {
+        "product_id": 3099,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 46.67,
+        "added_at": "2026-02-22T21:45:00.394012Z"
+      },
+      {
+        "product_id": 2811,
+        "variant_key": "silver",
+        "quantity": 2,
+        "price": 313.57,
+        "added_at": "2026-03-01T11:19:09.247040Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-23T10:25:39.719392Z",
+    "created_at": "2026-02-22T00:25:39.719392Z"
+  },
+  {
+    "user_id": 158,
+    "items": [
+      {
+        "product_id": 3095,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 16.6,
+        "added_at": "2026-02-27T21:01:02.156850Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-26T06:07:32.881774Z",
+    "created_at": "2026-02-24T08:07:32.881774Z"
+  },
+  {
+    "user_id": 531,
+    "items": [
+      {
+        "product_id": 628,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 23.94,
+        "added_at": "2026-02-28T03:24:58.982426Z"
+      },
+      {
+        "product_id": 3784,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 93.01,
+        "added_at": "2026-02-27T16:04:01.528497Z"
+      },
+      {
+        "product_id": 1678,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 10.06,
+        "added_at": "2026-02-27T08:33:23.073763Z"
+      },
+      {
+        "product_id": 2455,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 52.1,
+        "added_at": "2026-02-26T06:30:09.743455Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-28T09:15:26.798646Z",
+    "created_at": "2026-02-27T09:15:26.798646Z"
+  },
+  {
+    "user_id": 795,
+    "items": [
+      {
+        "product_id": 307,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 38.63,
+        "added_at": "2026-02-23T11:40:39.666415Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-24T09:16:22.503006Z",
+    "created_at": "2026-02-22T22:16:22.503006Z"
+  },
+  {
+    "user_id": 401,
+    "items": [
+      {
+        "product_id": 1109,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 34.16,
+        "added_at": "2026-02-27T16:15:53.871522Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-24T23:29:14.407023Z",
+    "created_at": "2026-02-24T06:29:14.407023Z"
+  },
+  {
+    "user_id": 972,
+    "items": [
+      {
+        "product_id": 3987,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 20.32,
+        "added_at": "2026-02-26T21:44:45.818009Z"
+      },
+      {
+        "product_id": 3459,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 114.97,
+        "added_at": "2026-02-26T03:33:08.943602Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-26T13:14:22.583957Z",
+    "created_at": "2026-02-25T20:14:22.583957Z"
+  },
+  {
+    "user_id": 739,
+    "items": [
+      {
+        "product_id": 2217,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 63.25,
+        "added_at": "2026-02-25T19:31:45.705924Z"
+      },
+      {
+        "product_id": 4333,
+        "variant_key": "white",
+        "quantity": 1,
+        "price": 111.72,
+        "added_at": "2026-02-28T01:21:42.752124Z"
+      },
+      {
+        "product_id": 4850,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 32.72,
+        "added_at": "2026-02-25T03:37:03.576544Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-27T18:07:27.669034Z",
+    "created_at": "2026-02-26T05:07:27.669034Z"
+  },
+  {
+    "user_id": 879,
+    "items": [
+      {
+        "product_id": 4712,
+        "variant_key": "blue-S",
+        "quantity": 2,
+        "price": 59.13,
+        "added_at": "2026-02-24T17:33:31.255035Z"
+      },
+      {
+        "product_id": 4058,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 15.79,
+        "added_at": "2026-02-24T14:16:49.943366Z"
+      },
+      {
+        "product_id": 4972,
+        "variant_key": "aqua-L",
+        "quantity": 3,
+        "price": 105.3,
+        "added_at": "2026-02-23T16:18:53.679098Z"
+      },
+      {
+        "product_id": 30,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 51.19,
+        "added_at": "2026-02-24T04:23:55.980680Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-23T16:07:47.707511Z",
+    "created_at": "2026-02-22T05:07:47.707511Z"
+  },
+  {
+    "user_id": 616,
+    "items": [
+      {
+        "product_id": 4171,
+        "variant_key": "white",
+        "quantity": 2,
+        "price": 299.93,
+        "added_at": "2026-02-26T14:04:11.526264Z"
+      },
+      {
+        "product_id": 2621,
+        "variant_key": "silver",
+        "quantity": 1,
+        "price": 236.17,
+        "added_at": "2026-02-28T04:05:33.275816Z"
+      },
+      {
+        "product_id": 1943,
+        "variant_key": "natural",
+        "quantity": 3,
+        "price": 23.85,
+        "added_at": "2026-02-24T03:08:59.624706Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-24T08:23:50.430199Z",
+    "created_at": "2026-02-23T02:23:50.430199Z"
+  },
+  {
+    "user_id": 661,
+    "items": [
+      {
+        "product_id": 4022,
+        "variant_key": "aqua-L",
+        "quantity": 2,
+        "price": 158.29,
+        "added_at": "2026-02-26T05:23:24.305546Z"
+      },
+      {
+        "product_id": 2179,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 63.62,
+        "added_at": "2026-02-27T21:46:30.008661Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-03-01T16:06:52.927440Z",
+    "created_at": "2026-02-28T12:06:52.927440Z"
+  },
+  {
+    "user_id": 887,
+    "items": [
+      {
+        "product_id": 4588,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 8.21,
+        "added_at": "2026-02-26T12:11:01.378437Z"
+      },
+      {
+        "product_id": 3144,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 170.6,
+        "added_at": "2026-02-24T19:35:18.615741Z"
+      },
+      {
+        "product_id": 288,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 22.34,
+        "added_at": "2026-02-23T12:55:59.190173Z"
+      },
+      {
+        "product_id": 1707,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 6.77,
+        "added_at": "2026-02-24T04:39:23.311229Z"
+      },
+      {
+        "product_id": 4043,
+        "variant_key": "black",
+        "quantity": 3,
+        "price": 52.7,
+        "added_at": "2026-02-24T10:15:42.817274Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-24T02:11:27.245621Z",
+    "created_at": "2026-02-22T21:11:27.245621Z"
+  },
+  {
+    "user_id": 590,
+    "items": [
+      {
+        "product_id": 4195,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 42.51,
+        "added_at": "2026-02-22T22:25:17.932517Z"
+      },
+      {
+        "product_id": 1918,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 17.65,
+        "added_at": "2026-02-26T13:46:45.901989Z"
+      },
+      {
+        "product_id": 2327,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 77.68,
+        "added_at": "2026-02-24T18:07:44.490438Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-03-01T15:43:34.574331Z",
+    "created_at": "2026-02-28T22:43:34.574331Z"
+  },
+  {
+    "user_id": 744,
+    "items": [
+      {
+        "product_id": 1906,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 88.71,
+        "added_at": "2026-02-26T17:00:32.503120Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-27T17:12:39.039232Z",
+    "created_at": "2026-02-26T01:12:39.039232Z"
+  },
+  {
+    "user_id": 647,
+    "items": [
+      {
+        "product_id": 2860,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 63.59,
+        "added_at": "2026-02-23T17:15:34.837341Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-28T21:56:46.332105Z",
+    "created_at": "2026-02-27T18:56:46.332105Z"
+  },
+  {
+    "user_id": 497,
+    "items": [
+      {
+        "product_id": 1527,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 14.53,
+        "added_at": "2026-02-26T06:30:44.434448Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-28T22:39:41.895727Z",
+    "created_at": "2026-02-27T23:39:41.895727Z"
+  },
+  {
+    "user_id": 803,
+    "items": [
+      {
+        "product_id": 1367,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 33.75,
+        "added_at": "2026-02-26T20:29:15.040030Z"
+      },
+      {
+        "product_id": 556,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 53.22,
+        "added_at": "2026-02-26T02:54:12.272294Z"
+      },
+      {
+        "product_id": 697,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 63.14,
+        "added_at": "2026-02-25T22:02:36.529113Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-24T03:01:04.147852Z",
+    "created_at": "2026-02-23T04:01:04.147852Z"
+  },
+  {
+    "user_id": 253,
+    "items": [
+      {
+        "product_id": 3784,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 93.01,
+        "added_at": "2026-02-23T04:40:33.638553Z"
+      },
+      {
+        "product_id": 2200,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 62.21,
+        "added_at": "2026-03-01T10:08:36.263325Z"
+      },
+      {
+        "product_id": 162,
+        "variant_key": "pink-S",
+        "quantity": 3,
+        "price": 33.83,
+        "added_at": "2026-02-26T04:18:11.612458Z"
+      },
+      {
+        "product_id": 4053,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 93.93,
+        "added_at": "2026-02-28T14:09:36.542277Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-25T15:21:48.861074Z",
+    "created_at": "2026-02-25T01:21:48.861074Z"
+  },
+  {
+    "user_id": 353,
+    "items": [
+      {
+        "product_id": 2218,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 31.42,
+        "added_at": "2026-02-23T08:29:25.896571Z"
+      },
+      {
+        "product_id": 4513,
+        "variant_key": "natural",
+        "quantity": 1,
+        "price": 147.35,
+        "added_at": "2026-02-27T05:47:29.763565Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-23T05:03:03.768132Z",
+    "created_at": "2026-02-21T22:03:03.768132Z"
+  },
+  {
+    "user_id": 131,
+    "items": [
+      {
+        "product_id": 2536,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 69.96,
+        "added_at": "2026-02-23T21:06:35.699090Z"
+      },
+      {
+        "product_id": 1184,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 245.83,
+        "added_at": "2026-02-26T18:36:06.388317Z"
+      },
+      {
+        "product_id": 4457,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 18.43,
+        "added_at": "2026-02-24T23:05:20.717562Z"
+      },
+      {
+        "product_id": 4812,
+        "variant_key": "blue-M",
+        "quantity": 1,
+        "price": 186.58,
+        "added_at": "2026-03-01T19:01:22.680615Z"
+      },
+      {
+        "product_id": 3194,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 76.11,
+        "added_at": "2026-02-23T15:56:40.504826Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-28T04:28:16.395733Z",
+    "created_at": "2026-02-27T14:28:16.395733Z"
+  },
+  {
+    "user_id": 737,
+    "items": [
+      {
+        "product_id": 1454,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 242.79,
+        "added_at": "2026-02-27T01:54:21.915472Z"
+      },
+      {
+        "product_id": 4064,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 122.42,
+        "added_at": "2026-02-28T08:53:21.053889Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-24T09:57:36.580497Z",
+    "created_at": "2026-02-23T14:57:36.580497Z"
+  },
+  {
+    "user_id": 383,
+    "items": [
+      {
+        "product_id": 2172,
+        "variant_key": "blue-S",
+        "quantity": 1,
+        "price": 197.18,
+        "added_at": "2026-02-26T11:50:12.869247Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-25T23:43:52.148365Z",
+    "created_at": "2026-02-25T16:43:52.148365Z"
+  },
+  {
+    "user_id": 631,
+    "items": [
+      {
+        "product_id": 4372,
+        "variant_key": "blue-XL",
+        "quantity": 1,
+        "price": 34.45,
+        "added_at": "2026-02-25T22:25:18.663231Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-28T20:33:09.799492Z",
+    "created_at": "2026-02-28T07:33:09.799492Z"
+  },
+  {
+    "user_id": 361,
+    "items": [
+      {
+        "product_id": 3135,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 18.06,
+        "added_at": "2026-03-01T18:22:11.906330Z"
+      },
+      {
+        "product_id": 3126,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 17.71,
+        "added_at": "2026-02-24T23:20:54.971764Z"
+      },
+      {
+        "product_id": 3891,
+        "variant_key": "silver",
+        "quantity": 1,
+        "price": 205.5,
+        "added_at": "2026-02-27T04:22:38.323784Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-27T02:27:45.775726Z",
+    "created_at": "2026-02-26T00:27:45.775726Z"
+  },
+  {
+    "user_id": 676,
+    "items": [
+      {
+        "product_id": 1392,
+        "variant_key": "navy-L",
+        "quantity": 1,
+        "price": 57.37,
+        "added_at": "2026-02-28T00:22:47.011957Z"
+      },
+      {
+        "product_id": 288,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 22.34,
+        "added_at": "2026-03-01T11:14:23.553157Z"
+      },
+      {
+        "product_id": 2747,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 51.42,
+        "added_at": "2026-02-24T06:57:11.125442Z"
+      },
+      {
+        "product_id": 3393,
+        "variant_key": "black",
+        "quantity": 1,
+        "price": 66.08,
+        "added_at": "2026-02-24T07:29:49.038121Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-27T10:59:47.937374Z",
+    "created_at": "2026-02-25T21:59:47.937374Z"
+  },
+  {
+    "user_id": 700,
+    "items": [
+      {
+        "product_id": 1611,
+        "variant_key": "white",
+        "quantity": 3,
+        "price": 340.11,
+        "added_at": "2026-02-23T22:25:49.130077Z"
+      },
+      {
+        "product_id": 4780,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 41.12,
+        "added_at": "2026-02-24T01:14:43.434028Z"
+      },
+      {
+        "product_id": 2777,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 54.88,
+        "added_at": "2026-02-23T08:39:20.232711Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-22T20:29:39.277030Z",
+    "created_at": "2026-02-21T23:29:39.277030Z"
+  },
+  {
+    "user_id": 219,
+    "items": [
+      {
+        "product_id": 491,
+        "variant_key": "black",
+        "quantity": 2,
+        "price": 426.92,
+        "added_at": "2026-02-25T23:43:45.640553Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-26T23:48:18.010808Z",
+    "created_at": "2026-02-26T14:48:18.010808Z"
+  },
+  {
+    "user_id": 241,
+    "items": [
+      {
+        "product_id": 4613,
+        "variant_key": "black",
+        "quantity": 1,
+        "price": 94.29,
+        "added_at": "2026-02-24T20:58:34.618006Z"
+      },
+      {
+        "product_id": 3780,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 89.94,
+        "added_at": "2026-02-24T10:55:57.826659Z"
+      },
+      {
+        "product_id": 3781,
+        "variant_key": "white",
+        "quantity": 1,
+        "price": 152.49,
+        "added_at": "2026-02-27T18:48:47.885911Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-27T18:08:47.875135Z",
+    "created_at": "2026-02-26T00:08:47.875135Z"
+  },
+  {
+    "user_id": 938,
+    "items": [
+      {
+        "product_id": 1407,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 60.64,
+        "added_at": "2026-02-26T00:19:19.146211Z"
+      },
+      {
+        "product_id": 895,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 23.13,
+        "added_at": "2026-02-27T15:31:31.399659Z"
+      },
+      {
+        "product_id": 3119,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 120.57,
+        "added_at": "2026-03-01T07:15:42.399703Z"
+      },
+      {
+        "product_id": 4173,
+        "variant_key": "white",
+        "quantity": 1,
+        "price": 48.55,
+        "added_at": "2026-02-28T08:23:59.390516Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-27T05:03:16.082733Z",
+    "created_at": "2026-02-26T04:03:16.082733Z"
+  },
+  {
+    "user_id": 174,
+    "items": [
+      {
+        "product_id": 1168,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 24.3,
+        "added_at": "2026-02-27T11:07:24.504318Z"
+      },
+      {
+        "product_id": 205,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 53.8,
+        "added_at": "2026-03-01T08:54:03.683668Z"
+      },
+      {
+        "product_id": 2289,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 36.55,
+        "added_at": "2026-02-25T19:28:05.046700Z"
+      },
+      {
+        "product_id": 4064,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 122.42,
+        "added_at": "2026-02-26T15:31:52.326644Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-27T08:50:50.480714Z",
+    "created_at": "2026-02-25T20:50:50.480714Z"
+  },
+  {
+    "user_id": 155,
+    "items": [
+      {
+        "product_id": 3883,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 144.25,
+        "added_at": "2026-03-01T04:39:28.242064Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-28T14:55:07.525356Z",
+    "created_at": "2026-02-27T18:55:07.525356Z"
+  },
+  {
+    "user_id": 656,
+    "items": [
+      {
+        "product_id": 3335,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 40.27,
+        "added_at": "2026-02-23T08:02:29.669330Z"
+      },
+      {
+        "product_id": 1848,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 7.12,
+        "added_at": "2026-02-23T23:55:11.102921Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-24T23:43:24.624269Z",
+    "created_at": "2026-02-24T11:43:24.624269Z"
+  },
+  {
+    "user_id": 710,
+    "items": [
+      {
+        "product_id": 1182,
+        "variant_key": "blue-XL",
+        "quantity": 3,
+        "price": 122.81,
+        "added_at": "2026-02-28T01:52:10.630308Z"
+      },
+      {
+        "product_id": 3255,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 14.75,
+        "added_at": "2026-02-26T19:40:17.423428Z"
+      },
+      {
+        "product_id": 2805,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 55.51,
+        "added_at": "2026-02-24T20:31:52.683807Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-23T16:56:10.092464Z",
+    "created_at": "2026-02-22T22:56:10.092464Z"
+  },
+  {
+    "user_id": 790,
+    "items": [
+      {
+        "product_id": 1163,
+        "variant_key": "black",
+        "quantity": 3,
+        "price": 35.87,
+        "added_at": "2026-02-27T15:44:33.449085Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-27T17:35:59.932673Z",
+    "created_at": "2026-02-26T21:35:59.932673Z"
+  },
+  {
+    "user_id": 454,
+    "items": [
+      {
+        "product_id": 3887,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 6.31,
+        "added_at": "2026-03-01T10:24:51.590402Z"
+      },
+      {
+        "product_id": 186,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 88.77,
+        "added_at": "2026-02-26T08:07:26.572721Z"
+      },
+      {
+        "product_id": 1497,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 15.95,
+        "added_at": "2026-02-26T07:00:08.348660Z"
+      },
+      {
+        "product_id": 2893,
+        "variant_key": "natural",
+        "quantity": 1,
+        "price": 145.81,
+        "added_at": "2026-02-23T09:33:32.232029Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-23T02:44:28.802274Z",
+    "created_at": "2026-02-22T17:44:28.802274Z"
+  },
+  {
+    "user_id": 876,
+    "items": [
+      {
+        "product_id": 3351,
+        "variant_key": "space-gray",
+        "quantity": 3,
+        "price": 245.3,
+        "added_at": "2026-02-25T20:37:31.936085Z"
+      },
+      {
+        "product_id": 3815,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 49.97,
+        "added_at": "2026-02-25T02:11:41.093615Z"
+      },
+      {
+        "product_id": 4565,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 18.63,
+        "added_at": "2026-02-24T14:06:23.507379Z"
+      },
+      {
+        "product_id": 1098,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 26.08,
+        "added_at": "2026-02-23T11:23:15.501034Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-03-01T13:38:44.834606Z",
+    "created_at": "2026-02-28T14:38:44.834606Z"
+  },
+  {
+    "user_id": 717,
+    "items": [
+      {
+        "product_id": 4425,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 17.7,
+        "added_at": "2026-02-28T16:29:08.769691Z"
+      },
+      {
+        "product_id": 3132,
+        "variant_key": "red-XL",
+        "quantity": 1,
+        "price": 40.1,
+        "added_at": "2026-02-26T20:40:41.421256Z"
+      },
+      {
+        "product_id": 867,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 12.4,
+        "added_at": "2026-03-01T11:46:36.540817Z"
+      },
+      {
+        "product_id": 905,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 58.78,
+        "added_at": "2026-03-01T19:58:22.397727Z"
+      },
+      {
+        "product_id": 4764,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 54.02,
+        "added_at": "2026-02-27T12:59:16.902187Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-24T17:19:21.268505Z",
+    "created_at": "2026-02-23T06:19:21.268505Z"
+  },
+  {
+    "user_id": 831,
+    "items": [
+      {
+        "product_id": 2340,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 94.21,
+        "added_at": "2026-02-23T02:48:13.115918Z"
+      },
+      {
+        "product_id": 3924,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 71.56,
+        "added_at": "2026-02-28T03:05:52.388633Z"
+      },
+      {
+        "product_id": 3452,
+        "variant_key": "blue-XL",
+        "quantity": 1,
+        "price": 110.81,
+        "added_at": "2026-02-26T03:05:19.897902Z"
+      },
+      {
+        "product_id": 3798,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 18.22,
+        "added_at": "2026-02-27T09:29:53.939209Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-03-01T05:56:41.822138Z",
+    "created_at": "2026-02-27T20:56:41.822138Z"
+  },
+  {
+    "user_id": 195,
+    "items": [
+      {
+        "product_id": 2206,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 26.1,
+        "added_at": "2026-02-24T02:32:05.636240Z"
+      },
+      {
+        "product_id": 2121,
+        "variant_key": "white",
+        "quantity": 3,
+        "price": 113.01,
+        "added_at": "2026-02-26T22:22:48.357368Z"
+      },
+      {
+        "product_id": 1891,
+        "variant_key": "space-gray",
+        "quantity": 3,
+        "price": 111.84,
+        "added_at": "2026-02-27T06:41:18.798326Z"
+      },
+      {
+        "product_id": 4567,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 55.48,
+        "added_at": "2026-02-26T06:39:16.765165Z"
+      },
+      {
+        "product_id": 898,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 26.62,
+        "added_at": "2026-02-23T11:22:24.407326Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-25T06:30:07.846847Z",
+    "created_at": "2026-02-23T14:30:07.846847Z"
+  },
+  {
+    "user_id": 535,
+    "items": [
+      {
+        "product_id": 1071,
+        "variant_key": "space-gray",
+        "quantity": 2,
+        "price": 474.56,
+        "added_at": "2026-02-25T04:02:25.916489Z"
+      },
+      {
+        "product_id": 2464,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 108.75,
+        "added_at": "2026-02-27T12:37:37.746558Z"
+      },
+      {
+        "product_id": 3307,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 68.59,
+        "added_at": "2026-02-28T20:08:37.975493Z"
+      },
+      {
+        "product_id": 4981,
+        "variant_key": "silver",
+        "quantity": 1,
+        "price": 416.49,
+        "added_at": "2026-02-25T03:27:06.255733Z"
+      },
+      {
+        "product_id": 2671,
+        "variant_key": "silver",
+        "quantity": 2,
+        "price": 88.3,
+        "added_at": "2026-02-27T16:34:54.838025Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-24T20:27:55.122635Z",
+    "created_at": "2026-02-24T02:27:55.122635Z"
+  },
+  {
+    "user_id": 618,
+    "items": [
+      {
+        "product_id": 3581,
+        "variant_key": "silver",
+        "quantity": 2,
+        "price": 349.96,
+        "added_at": "2026-03-01T10:50:14.052728Z"
+      },
+      {
+        "product_id": 321,
+        "variant_key": "silver",
+        "quantity": 1,
+        "price": 345.15,
+        "added_at": "2026-02-28T12:43:25.737809Z"
+      },
+      {
+        "product_id": 961,
+        "variant_key": "silver",
+        "quantity": 3,
+        "price": 240.0,
+        "added_at": "2026-02-26T16:27:39.429106Z"
+      },
+      {
+        "product_id": 4324,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 122.43,
+        "added_at": "2026-02-26T00:27:19.709522Z"
+      },
+      {
+        "product_id": 2248,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 13.3,
+        "added_at": "2026-02-25T00:53:00.976656Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-25T02:21:16.985940Z",
+    "created_at": "2026-02-23T04:21:16.985940Z"
+  },
+  {
+    "user_id": 623,
+    "items": [
+      {
+        "product_id": 1378,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 14.83,
+        "added_at": "2026-03-01T15:02:08.722774Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-25T15:56:46.074474Z",
+    "created_at": "2026-02-23T15:56:46.074474Z"
+  },
+  {
+    "user_id": 179,
+    "items": [
+      {
+        "product_id": 1216,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 80.06,
+        "added_at": "2026-02-26T10:29:48.813409Z"
+      },
+      {
+        "product_id": 2694,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 113.76,
+        "added_at": "2026-03-01T18:02:55.501100Z"
+      },
+      {
+        "product_id": 1785,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 44.88,
+        "added_at": "2026-02-27T10:31:54.001745Z"
+      },
+      {
+        "product_id": 169,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 39.19,
+        "added_at": "2026-02-26T15:12:01.605867Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-25T17:28:13.130819Z",
+    "created_at": "2026-02-24T16:28:13.130819Z"
+  },
+  {
+    "user_id": 2,
+    "items": [
+      {
+        "product_id": 2390,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 6.15,
+        "added_at": "2026-02-24T03:33:30.921036Z"
+      },
+      {
+        "product_id": 1961,
+        "variant_key": "silver",
+        "quantity": 1,
+        "price": 321.37,
+        "added_at": "2026-02-25T08:49:25.156415Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-28T03:07:37.819573Z",
+    "created_at": "2026-02-28T02:07:37.819573Z"
+  },
+  {
+    "user_id": 295,
+    "items": [
+      {
+        "product_id": 4229,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 33.58,
+        "added_at": "2026-02-27T05:06:48.207249Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-28T03:43:23.276210Z",
+    "created_at": "2026-02-27T19:43:23.276210Z"
+  },
+  {
+    "user_id": 373,
+    "items": [
+      {
+        "product_id": 22,
+        "variant_key": "blue-XL",
+        "quantity": 3,
+        "price": 42.99,
+        "added_at": "2026-02-24T06:14:33.022554Z"
+      },
+      {
+        "product_id": 757,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 43.39,
+        "added_at": "2026-02-26T16:18:49.037719Z"
+      },
+      {
+        "product_id": 1248,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 17.4,
+        "added_at": "2026-03-01T07:53:37.485759Z"
+      },
+      {
+        "product_id": 4051,
+        "variant_key": "space-gray",
+        "quantity": 2,
+        "price": 107.96,
+        "added_at": "2026-02-25T21:38:53.614300Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-27T17:21:02.617613Z",
+    "created_at": "2026-02-26T03:21:02.617613Z"
+  },
+  {
+    "user_id": 486,
+    "items": [
+      {
+        "product_id": 4729,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 34.8,
+        "added_at": "2026-02-23T16:26:39.495218Z"
+      },
+      {
+        "product_id": 367,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 77.19,
+        "added_at": "2026-03-01T15:32:00.194209Z"
+      },
+      {
+        "product_id": 4439,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 126.25,
+        "added_at": "2026-02-27T02:20:06.584251Z"
+      },
+      {
+        "product_id": 4451,
+        "variant_key": "white",
+        "quantity": 3,
+        "price": 439.96,
+        "added_at": "2026-02-24T12:14:48.105216Z"
+      },
+      {
+        "product_id": 3484,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 127.8,
+        "added_at": "2026-02-23T22:39:08.113469Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-26T16:35:08.431435Z",
+    "created_at": "2026-02-26T00:35:08.431435Z"
+  },
+  {
+    "user_id": 708,
+    "items": [
+      {
+        "product_id": 416,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 54.25,
+        "added_at": "2026-02-26T16:49:22.652196Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-23T11:42:13.924935Z",
+    "created_at": "2026-02-22T02:42:13.924935Z"
+  },
+  {
+    "user_id": 864,
+    "items": [
+      {
+        "product_id": 1796,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 27.06,
+        "added_at": "2026-03-01T18:44:38.117906Z"
+      },
+      {
+        "product_id": 973,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 53.04,
+        "added_at": "2026-03-01T05:25:00.990507Z"
+      },
+      {
+        "product_id": 2002,
+        "variant_key": "black-L",
+        "quantity": 1,
+        "price": 121.51,
+        "added_at": "2026-02-26T01:34:04.686399Z"
+      }
+    ],
+    "device": "tablet",
+    "updated_at": "2026-02-23T15:46:44.526969Z",
+    "created_at": "2026-02-22T05:46:44.526969Z"
+  },
+  {
+    "user_id": 801,
+    "items": [
+      {
+        "product_id": 2608,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 11.59,
+        "added_at": "2026-02-28T15:50:41.191495Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-26T07:46:18.505247Z",
+    "created_at": "2026-02-24T19:46:18.505247Z"
+  },
+  {
+    "user_id": 937,
+    "items": [
+      {
+        "product_id": 2123,
+        "variant_key": "black",
+        "quantity": 3,
+        "price": 89.93,
+        "added_at": "2026-02-27T20:26:02.691560Z"
+      },
+      {
+        "product_id": 1160,
+        "variant_key": "default",
+        "quantity": 1,
+        "price": 49.73,
+        "added_at": "2026-02-26T09:32:06.794714Z"
+      },
+      {
+        "product_id": 149,
+        "variant_key": "default",
+        "quantity": 3,
+        "price": 123.58,
+        "added_at": "2026-02-24T17:58:48.377532Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-28T16:16:42.042285Z",
+    "created_at": "2026-02-26T21:16:42.042285Z"
+  },
+  {
+    "user_id": 804,
+    "items": [
+      {
+        "product_id": 561,
+        "variant_key": "silver",
+        "quantity": 1,
+        "price": 405.98,
+        "added_at": "2026-03-01T16:43:32.953799Z"
+      }
+    ],
+    "device": "laptop",
+    "updated_at": "2026-02-24T12:59:29.451994Z",
+    "created_at": "2026-02-23T20:59:29.451994Z"
+  },
+  {
+    "user_id": 363,
+    "items": [
+      {
+        "product_id": 3383,
+        "variant_key": "natural",
+        "quantity": 1,
+        "price": 124.82,
+        "added_at": "2026-02-26T16:39:26.118497Z"
+      },
+      {
+        "product_id": 3658,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 37.35,
+        "added_at": "2026-02-25T12:29:13.820812Z"
+      },
+      {
+        "product_id": 4709,
+        "variant_key": "default",
+        "quantity": 2,
+        "price": 66.41,
+        "added_at": "2026-03-01T06:55:06.857079Z"
+      }
+    ],
+    "device": "mobile",
+    "updated_at": "2026-02-26T09:25:45.091235Z",
+    "created_at": "2026-02-24T11:25:45.091235Z"
+  }
+]

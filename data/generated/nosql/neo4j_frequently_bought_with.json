@@ -1,0 +1,110 @@
+[
+  {
+    "product_1": 150,
+    "product_2": 1084,
+    "count": 3,
+    "confidence": 0.064
+  },
+  {
+    "product_1": 438,
+    "product_2": 4627,
+    "count": 3,
+    "confidence": 0.056
+  },
+  {
+    "product_1": 487,
+    "product_2": 3721,
+    "count": 3,
+    "confidence": 0.047
+  },
+  {
+    "product_1": 596,
+    "product_2": 1687,
+    "count": 3,
+    "confidence": 0.057
+  },
+  {
+    "product_1": 854,
+    "product_2": 4856,
+    "count": 3,
+    "confidence": 0.064
+  },
+  {
+    "product_1": 1116,
+    "product_2": 2358,
+    "count": 3,
+    "confidence": 0.064
+  },
+  {
+    "product_1": 1116,
+    "product_2": 4761,
+    "count": 3,
+    "confidence": 0.064
+  },
+  {
+    "product_1": 1135,
+    "product_2": 2192,
+    "count": 3,
+    "confidence": 0.05
+  },
+  {
+    "product_1": 1210,
+    "product_2": 4875,
+    "count": 3,
+    "confidence": 0.058
+  },
+  {
+    "product_1": 1784,
+    "product_2": 3496,
+    "count": 3,
+    "confidence": 0.06
+  },
+  {
+    "product_1": 1947,
+    "product_2": 4435,
+    "count": 3,
+    "confidence": 0.059
+  },
+  {
+    "product_1": 2190,
+    "product_2": 2282,
+    "count": 3,
+    "confidence": 0.052
+  },
+  {
+    "product_1": 2236,
+    "product_2": 3221,
+    "count": 3,
+    "confidence": 0.053
+  },
+  {
+    "product_1": 2336,
+    "product_2": 2986,
+    "count": 3,
+    "confidence": 0.053
+  },
+  {
+    "product_1": 2718,
+    "product_2": 3281,
+    "count": 3,
+    "confidence": 0.045
+  },
+  {
+    "product_1": 2734,
+    "product_2": 3125,
+    "count": 3,
+    "confidence": 0.055
+  },
+  {
+    "product_1": 2957,
+    "product_2": 3962,
+    "count": 3,
+    "confidence": 0.051
+  },
+  {
+    "product_1": 3133,
+    "product_2": 3484,
+    "count": 3,
+    "confidence": 0.048
+  }
+]
